@@ -1,0 +1,21 @@
+<?php
+
+function getPubs() {
+
+  $pubListSrc = "wriauthors.json";
+
+  $pubList = file_get_contents($pubListSrc);
+
+  $itemArray = json_decode($pubList, true);
+
+  $extPub = $itemArray;
+
+  $test = $extPub[0]['title'];
+
+  return $test;
+
+}
+
+$message = getPubs();
+drupal_set_message(t('An error occurred and processing did not complete.'), 'error');
+

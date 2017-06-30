@@ -1,0 +1,778 @@
+[
+	{
+		"id": "http://zotero.org/groups/1468459/items/AKESVUQF",
+		"type": "article-journal",
+		"title": "Use of coastal economic valuation in decision making in the Caribbean: Enabling conditions and lessons learned",
+		"container-title": "Ecosystem Services",
+		"collection-title": "Marine Economics and Policy related to Ecosystem Services: Lessons from the World’s Regional Seas",
+		"page": "45-55",
+		"volume": "11",
+		"source": "ScienceDirect",
+		"abstract": "Caribbean economies depend on coastal ecosystem services, including tourism, fisheries, and shoreline protection. However, coastal ecosystems continue to degrade due to human pressures. Many pressures arise from decisions that fail to take full range of ecosystem values and benefits into account. Economic valuation can contribute to better-informed decision making about coastal resource use and development. More than 100 studies in the Caribbean contain monetary values of coastal ecosystem goods and services. However, only a minority of these studies have had an observable influence on policy, management, or investment decisions. Through a series of interviews, we identified 17 valuation studies that have directly influenced decision making. Due to the difficulty of tracking influence, our review was not exhaustive. These 17 “success stories” highlight the potential for economic valuation to improve decision making. Building on literature on the challenges of integrating science into policy, we used these 17 cases to identify enabling conditions for informing decision making. These conditions include a clear policy question, strategic choice of study area, strong stakeholder engagement, effective communications, access to decision makers, and transparency in reporting results. Our findings suggest that valuation practitioners can and should do more to ensure that valuation studies inform decision making.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2212041614000813",
+		"DOI": "10.1016/j.ecoser.2014.07.010",
+		"ISSN": "2212-0416",
+		"shortTitle": "Use of coastal economic valuation in decision making in the Caribbean",
+		"journalAbbreviation": "Ecosystem Services",
+		"author": [
+			{
+				"family": "Waite",
+				"given": "Richard"
+			},
+			{
+				"family": "Kushner",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Jungwiwattanaporn",
+				"given": "Megan"
+			},
+			{
+				"family": "Gray",
+				"given": "Erin"
+			},
+			{
+				"family": "Burke",
+				"given": "Lauretta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/ZE5EG6DH",
+		"type": "article-journal",
+		"title": "Virtual scarce water embodied in inter-provincial electricity transmission in China",
+		"container-title": "Applied Energy",
+		"page": "438-448",
+		"volume": "187",
+		"source": "ScienceDirect",
+		"abstract": "Intra-national electricity transmission drives virtual water transfer from electricity production regions to electricity consumption regions. In China, the water-intensive thermoelectric power industry is expanding quickly in many water-scarce energy production hubs in northern and northwestern provinces. This study constructed a node-flow model of inter-provincial electricity transmission to investigate the virtual water and scarcity-adjusted virtual water (or virtual scarce water) embodied in the electricity transmission network. It is revealed that total inter-provincial virtual water transfer embodied in electricity transmission was 623 million m3 in 2011, equivalent to 12.7% of the national total thermoelectric water consumption. The top three largest single virtual water flows are West Inner Mongolia-to-Beijing (44 million m3), East Inner Mongolia-to-Liaoning (39 million m3), and Guizhou-to-Guangdong (37 million m3). If the actual volumes of consumptive water use are translated into scarcity-adjusted water consumption based on Water Stress Index, West Inner Mongolia (81 million m3), Shanxi (63 million m3) and Ningxia (30 million m3) become the top three exporters of virtual scarce water. Many ongoing long-distance electricity transmission projects in China will enlarge the scale of scarce water outflows from northwestern regions and potentially increase their water stress.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0306261916316373",
+		"DOI": "10.1016/j.apenergy.2016.11.052",
+		"ISSN": "0306-2619",
+		"journalAbbreviation": "Applied Energy",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Chao"
+			},
+			{
+				"family": "Zhong",
+				"given": "Lijin"
+			},
+			{
+				"family": "Liang",
+				"given": "Sai"
+			},
+			{
+				"family": "Sanders",
+				"given": "Kelly T."
+			},
+			{
+				"family": "Wang",
+				"given": "Jiao"
+			},
+			{
+				"family": "Xu",
+				"given": "Ming"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/239CV5XJ",
+		"type": "webpage",
+		"title": "Valuing climate change impacts on European forest ecosystems - ScienceDirect",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2212041616300614?via%3Dihub",
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/2NT9XX48",
+		"type": "article-journal",
+		"title": "Evaluating the impacts of the clean cities program",
+		"container-title": "Science of The Total Environment",
+		"page": "254-262",
+		"volume": "579",
+		"source": "ScienceDirect",
+		"abstract": "The Department of Energy's Clean Cities program was created in 1993 to reduce petroleum usage in the transportation sector. The program promotes alternative fuels such as biofuels and fuel-saving strategies such as idle reduction and fleet management through coalitions of local government, non-profit, and private actors. Few studies have evaluated the impact of the program because of its complexity that include interrelated strategies of grants, education and training and diversity of participants. This paper uses a Difference-in-Differences (DiD) approach to evaluate the effectiveness of the program between 1990 and 2010. We quantify the effectiveness of the Clean Cities program by focusing on performance measures such as air quality, number of alternative fueling stations, private vehicle occupancy and transit ridership. We find that counties that participate in the program perform better on all these measures compared to counties that did not participate. Compared to the control group, counties in the Clean Cities program experienced a reduction in days with bad air quality (3.7%), a decrease in automobile commuters (2.9%), an overall increase in transit commuters (2.1%) and had greater numbers of new alternative fueling stations (12.9). The results suggest that the program is a qualified success.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0048969716325736",
+		"DOI": "10.1016/j.scitotenv.2016.11.119",
+		"ISSN": "0048-9697",
+		"journalAbbreviation": "Science of The Total Environment",
+		"author": [
+			{
+				"family": "Qiu",
+				"given": "Shiyong"
+			},
+			{
+				"family": "Kaza",
+				"given": "Nikhil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/4U5RIMCJ",
+		"type": "webpage",
+		"title": "Linkage between passenger demand and surrounding land-use patterns at urban rail transit stations: A canonical correlation analysis method and case study in Chongqing - ScienceDirect",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2046043016000034?via%3Dihub",
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/G5JQUW9P",
+		"type": "article-journal",
+		"title": "Valuing climate change impacts on European forest ecosystems",
+		"container-title": "Ecosystem Services",
+		"page": "141-153",
+		"volume": "18",
+		"source": "CrossRef",
+		"URL": "http://linkinghub.elsevier.com/retrieve/pii/S2212041616300614",
+		"DOI": "10.1016/j.ecoser.2016.02.039",
+		"ISSN": "22120416",
+		"language": "en",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Chiabai",
+				"given": "Aline"
+			},
+			{
+				"family": "Silvestri",
+				"given": "Silvia"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A.L.D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/HTFQTPAG",
+		"type": "article-journal",
+		"title": "Exploring the link between the neighborhood typologies, bicycle infrastructure and commuting cycling over time and the potential impact on commuter GHG emissions",
+		"container-title": "Transportation Research Part D: Transport and Environment",
+		"page": "89-103",
+		"volume": "47",
+		"source": "ScienceDirect",
+		"abstract": "This paper investigates the evolution of urban cycling in Montreal, Canada and its link to both built environment indicators and bicycle infrastructure accessibility. The effect of new cycling infrastructure on transport-related greenhouse gas (GHG) emissions is then explored. More specifically, we aim at investigating how commuting cycling modal share has evolved across neighborhood built-environment typologies and over time in Montreal, Canada. For this purpose, automobile and bicycle trip information from origin–destination surveys for the years 1998, 2003 and 2008 are used. Neighborhood typologies are generated from different built environment indicators (population and employment density, land use diversity, etc.). Furthermore, to represent the commuter mode choice (bicycle vs automobile), a standard binary logit and simultaneous equation modeling approach are adopted to represent the mode choice and the household location. Among other things, we observe an important increase in the likelihood to cycle across built environment types and over time in the study region. In particular, urban and urban-suburb neighborhoods have experienced an important growth over the 10years, going from a modal split of 2.8–5.3% and 1.4–3.0%, respectively. After controlling for other factors, the model regression analysis also confirms the important increase across years as well as the significant differences of bicycle ridership across neighborhoods. A statistically significant association is also found between the index of bicycle infrastructure accessibility and bike mode choice – an increase of 10% in the accessibility index results in a 3.7% increase in the ridership. Based on the estimated models and in combination with a GHG inventory at the trip level, the potential impact of planned cycling infrastructure is explored using a basic scenario. A reduction of close to 2% in GHG emissions is observed for an increase of 7% in the length of the bicycle network. Results show the important benefits of bicycle infrastructure to reduce commuting automobile usage and GHG emissions.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S136192091630270X",
+		"DOI": "10.1016/j.trd.2016.05.008",
+		"ISSN": "1361-9209",
+		"journalAbbreviation": "Transportation Research Part D: Transport and Environment",
+		"author": [
+			{
+				"family": "Zahabi",
+				"given": "Seyed Amir H."
+			},
+			{
+				"family": "Chang",
+				"given": "Annie"
+			},
+			{
+				"family": "Miranda-Moreno",
+				"given": "Luis F."
+			},
+			{
+				"family": "Patterson",
+				"given": "Zachary"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/IJWZ2Q3G",
+		"type": "article-journal",
+		"title": "Deforestation and timber production in Congo after implementation of sustainable management policy: A reaction to the article by J.S. Brandt, C. Nolte and A. Agrawal (Land Use Policy 52:15–22)",
+		"container-title": "Land Use Policy",
+		"page": "62-65",
+		"volume": "65",
+		"source": "ScienceDirect",
+		"abstract": "This viewpoint paper presents a reaction to the article by Brandt et al. (2016). It highlights the complexities inherent to the attribution of deforestation impacts to policy interventions when using remote-sensing data. This critique argues that in the context of the Congo a suite of factors (i.e., population density in particular) other than those considered by Brandt et al. (e.g., type of forest, distance from roads and markets) play essential roles in determining the fates of forests. It also contends that care is needed when making decisions regarding which units will be included in the comparison group so that contextual factors and on-the-ground information are properly considered (e.g., when logging operations are inactive or when a concession is used for ‘conservation’ purposes). Finally, it proposes that a focus on an analysis of deforestation rates for a given level of timber production might be a metric that more accurately represents one aspect of the consequences of forest management, which should also consider the appraisal of trade-offs associated with a larger set of social, financial and ecological objectives.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0264837716307839",
+		"DOI": "10.1016/j.landusepol.2017.02.032",
+		"ISSN": "0264-8377",
+		"shortTitle": "Deforestation and timber production in Congo after implementation of sustainable management policy",
+		"journalAbbreviation": "Land Use Policy",
+		"author": [
+			{
+				"family": "Karsenty",
+				"given": "Alain"
+			},
+			{
+				"family": "Romero",
+				"given": "Claudia"
+			},
+			{
+				"family": "Cerutti",
+				"given": "Paolo Omar"
+			},
+			{
+				"family": "Doucet",
+				"given": "Jean-Louis"
+			},
+			{
+				"family": "Putz",
+				"given": "Francis E."
+			},
+			{
+				"family": "Bernard",
+				"given": "Christelle"
+			},
+			{
+				"family": "Atyi",
+				"given": "Richard Eba’a"
+			},
+			{
+				"family": "Douard",
+				"given": "Pascal"
+			},
+			{
+				"family": "Claeys",
+				"given": "Florian"
+			},
+			{
+				"family": "Desbureaux",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Blas",
+				"given": "Driss Ezzine",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Fayolle",
+				"given": "Adeline"
+			},
+			{
+				"family": "Fomété",
+				"given": "Timothée"
+			},
+			{
+				"family": "Forni",
+				"given": "Eric"
+			},
+			{
+				"family": "Gond",
+				"given": "Valéry"
+			},
+			{
+				"family": "Gourlet-Fleury",
+				"given": "Sylvie"
+			},
+			{
+				"family": "Kleinschroth",
+				"given": "Fritz"
+			},
+			{
+				"family": "Mortier",
+				"given": "Frédéric"
+			},
+			{
+				"family": "Nasi",
+				"given": "Robert"
+			},
+			{
+				"family": "Nguinguiri",
+				"given": "Jean Claude"
+			},
+			{
+				"family": "Vermeulen",
+				"given": "Cédric"
+			},
+			{
+				"family": "Wasseige",
+				"given": "Carlos",
+				"non-dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/KEIWM89B",
+		"type": "article-journal",
+		"title": "Improving land management in Brazil: A perspective from producers",
+		"container-title": "Agriculture, Ecosystems & Environment",
+		"page": "276-286",
+		"volume": "240",
+		"source": "ScienceDirect",
+		"abstract": "The low productivity of many tropical pasturelands is a major driver of deforestation and other negative environmental and socio-economic impacts. In Brazil, the second biggest meat producer in the world, 85% of cattle farms remain within extensive pasture systems, and cattle farming is by far the most important proximate driver of deforestation. It is possible to expand Brazilian agriculture with zero deforestation through improvements to rangeland productivity yet understanding of the challenges and motivations of the actual cattle farmers in the face of such a transition remains sparse. To better understand the importance of the underlying factors that lead to or inhibit improvements to land management, we used focus groups and semi-structured interviews (N = 250) with farmers from the state of Mato Grosso in the Brazilian Amazon. We found that the majority of the respondents (60%) claimed that the principal benefit of adopting good agricultural practices was increased productivity, followed by increased income (43%) and better farm administrative management (34%). The adoption of improved pasture management techniques was positively correlated with stocking rates (p &lt; 0.005, r = 0.48). Farms that adopted improved pasture management, most often through rotational grazing had, on average, lower levels of forest cover (p &lt; 0.05, r = 0.22). We found that scarcity of labour was the major issue affecting the adoption of improved techniques (36%), followed by financial constraints (18%). We also identified a shortfall in access to technical extension services to be a significant problem because 40% of the technical assistance is currently provided by vendors of fertilizers and other chemicals. To our knowledge, this is the first study to systematically assess the barriers to and the conditions surrounding the adoption of good agricultural practices in Brazilian pasturelands from the perspective of the farmers from the Amazon involved in the implementation of these practices. It is critical that decision-makers involved in the design of technical assistance schemes, education and credit programmes consider these factors if sustainable land management is to be realised at scale. In particular, the lack of skilled and available labour contrasts with the widespread assumption that new credit lines for sustainable agriculture will automatically result in better land management. A failure to consider factors discussed in this paper may contribute to the continued clearance of native vegetation and the environmental degradation of existing pasturelands, in addition to the persistence of widespread poverty among cattle-farmers. These results can assist the large scale implementation of sustainable land use policies in Brazil and elsewhere.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0167880917300634",
+		"DOI": "10.1016/j.agee.2017.01.043",
+		"ISSN": "0167-8809",
+		"shortTitle": "Improving land management in Brazil",
+		"journalAbbreviation": "Agriculture, Ecosystems & Environment",
+		"author": [
+			{
+				"family": "Latawiec",
+				"given": "Agnieszka E."
+			},
+			{
+				"family": "Strassburg",
+				"given": "Bernardo B. N."
+			},
+			{
+				"family": "Silva",
+				"given": "Daniel"
+			},
+			{
+				"family": "Alves-Pinto",
+				"given": "Helena Nery"
+			},
+			{
+				"family": "Feltran-Barbieri",
+				"given": "Rafael"
+			},
+			{
+				"family": "Castro",
+				"given": "Ana"
+			},
+			{
+				"family": "Iribarrem",
+				"given": "Alvaro"
+			},
+			{
+				"family": "Rangel",
+				"given": "Márcio Cordeiro"
+			},
+			{
+				"family": "Kalif",
+				"given": "Kemel Amin B."
+			},
+			{
+				"family": "Gardner",
+				"given": "Toby"
+			},
+			{
+				"family": "Beduschi",
+				"given": "Francisco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/QTQD4QGI",
+		"type": "article-journal",
+		"title": "Pay for Performance: Optimizing public investments in agricultural best management practices in the Chesapeake Bay Watershed",
+		"container-title": "Ecological Economics",
+		"page": "252-261",
+		"volume": "118",
+		"source": "ScienceDirect",
+		"abstract": "Agricultural best management practices (BMPs) such as streamside buffer zones and cover crops are increasingly being used to reduce nutrient pollution into water bodies. Eutrophication from fertilizer runoff is the key driver behind growth of hypoxic “dead zones” where fish production comes to a standstill. Governments heavily subsidize BMPs, but do not generally allocate funds to maximize their environmental benefits. But with ever-increasing fiscal constraints, policy makers are searching for ways to enhance efficiency of BMP programs. Pay for performance presents an alternative platform based on nutrient reduction achieved. This paper compares a conventional subsidy approach with pay for performance for BMPs designed to reduce nutrient pollution into the Chesapeake Bay. We model four paired scenarios using a constrained optimization model. In the first pairing we held the level of nutrient reduction constant and compared cost effectiveness of the two subsidy allocation methods. In the second pairing we held the level of program investment constant and compared nutrient reduction outcomes. In both pairings, pay for performance was far superior — delivering identical nutrient reduction outcomes at less than half the cost in the first and delivering two to three times the amount of nutrient reduction for the same budget allocation in the second.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0921800915003365",
+		"DOI": "10.1016/j.ecolecon.2015.07.033",
+		"ISSN": "0921-8009",
+		"shortTitle": "Pay for Performance",
+		"journalAbbreviation": "Ecological Economics",
+		"author": [
+			{
+				"family": "Talberth",
+				"given": "John"
+			},
+			{
+				"family": "Selman",
+				"given": "Mindy"
+			},
+			{
+				"family": "Walker",
+				"given": "Sara"
+			},
+			{
+				"family": "Gray",
+				"given": "Erin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/QZIMI3I2",
+		"type": "webpage",
+		"title": "Governance innovations from a multi-stakeholder coalition to implement large-scale Forest Restoration in Brazil - ScienceDirect",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2452292916301382?via%3Dihub",
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/RG4QKPX5",
+		"type": "article-journal",
+		"title": "BECCS potential in Brazil: Achieving negative emissions in ethanol and electricity production based on sugar cane bagasse and other residues",
+		"container-title": "Applied Energy",
+		"page": "55-63",
+		"volume": "179",
+		"source": "ScienceDirect",
+		"abstract": "Stabilization at concentrations consistent with keeping global warming below 2°C above the pre-industrial level will require drastic cuts in Greenhouse Gas (GHG) emissions during the first half of the century; net negative emissions approaching 2100 are required in the vast majority of current emission scenarios. For negative emissions, the focus has been on bioenergy with carbon capture and storage (BECCS), where carbon-neutral bioenergy would be combined with additional carbon capture thus yielding emissions lower than zero. Different BECCS technologies are considered around the world and one option that deserves special attention applies CCS to ethanol production. It is currently possible to eliminate 27.7milliontonnes (Mt) of CO2 emissions per year through capture and storage of CO2 released during fermentation, which is part of sugar cane-based ethanol production in Brazil. Thus, BECCS could reduce the country’s emissions from energy production by roughly 5%. Such emissions are additional to those due to the substitution of biomass-based electricity for fossil-fueled power plants. This paper assesses the potential and cost effectiveness of negative emissions in the joint production system of ethanol and electricity based on sugar cane, bagasse, and other residues in Brazil. An important benefit is that CO2 can be captured twice along the proposed BECCS supply chain (once during fermentation and once during electricity generation). This study only considers BECCS from fermentation because capturing such CO2 is straightforward, thus potentially representing a cost-effective mitigation option for Brazil compared to other alternatives. The assessment shows that fuel prices would increase by less than 3.5% due to the adoption of BECCS from fermentation, while increasing investors’ revenues are sufficient to compensate for the investment required. With appropriate government subsidies, or by sharing BECCS costs between all car fuels and all electricity supplied by hydro and bioelectricity, the increment in ethanol and electricity prices could be less than 1% for the final consumer. Meanwhile it would supply 77.3% of all cars’ fuel (private cars) and 17.9% of all electricity in Brazil.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0306261916308194",
+		"DOI": "10.1016/j.apenergy.2016.06.044",
+		"ISSN": "0306-2619",
+		"shortTitle": "BECCS potential in Brazil",
+		"journalAbbreviation": "Applied Energy",
+		"author": [
+			{
+				"family": "Moreira",
+				"given": "José Roberto"
+			},
+			{
+				"family": "Romeiro",
+				"given": "Viviane"
+			},
+			{
+				"family": "Fuss",
+				"given": "Sabine"
+			},
+			{
+				"family": "Kraxner",
+				"given": "Florian"
+			},
+			{
+				"family": "Pacca",
+				"given": "Sérgio A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/TF5UGMKZ",
+		"type": "article-journal",
+		"title": "Economic valuation of coral reef ecosystem service of coastal protection: A pragmatic approach",
+		"container-title": "Ecosystem Services",
+		"page": "72-80",
+		"volume": "21",
+		"source": "ScienceDirect",
+		"abstract": "The identification and economic valuation of ecosystem services (ES) are becoming important components of coral reef management. In many contexts, protection of human assets against coastal floods is one of the most important ES provided by coral reefs. The methods utilized to characterize this ES should be able to accommodate situations with low data availability, without sacrificing robustness. In this paper, we suggest such an approach that utilizes expert opinion and does not require copious amounts of data. Our primary objective is to find a balance between simple and complex models that can be used in a data scarce environment, to produce an economic valuation of the coral reef ES of protection against coastal floods. The approach has three steps: (i) identify geographic zones and assets at risk, (ii) identify the contributing role of coral reefs in the protection of coasts and, (iii) value the annual repair costs of assets through the avoided damage cost approach. The proposed method seems appropriate for advocacy with policy makers, but appears to be less effective for small scale approaches, such as those required for Payment for ES negotiations or marine spatial planning.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S221204161630167X",
+		"DOI": "10.1016/j.ecoser.2016.07.005",
+		"ISSN": "2212-0416",
+		"shortTitle": "Economic valuation of coral reef ecosystem service of coastal protection",
+		"journalAbbreviation": "Ecosystem Services",
+		"author": [
+			{
+				"family": "Pascal",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Allenbach",
+				"given": "Michel"
+			},
+			{
+				"family": "Brathwaite",
+				"given": "Angelique"
+			},
+			{
+				"family": "Burke",
+				"given": "Lauretta"
+			},
+			{
+				"family": "Le Port",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Clua",
+				"given": "Eric"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/VG4PZDHK",
+		"type": "article-journal",
+		"title": "Modeling the Processing and Transportation Logistics of Forest Residues Using Life Cycle Assessment",
+		"container-title": "Journal of Forestry",
+		"page": "86-94",
+		"volume": "115",
+		"issue": "2",
+		"source": "IngentaConnect",
+		"abstract": "This study investigates the environmental burdens of three logistics system scenarios for residue processing and transportation under different road type distributions using life cycle assessment (LCA). The three scenarios are as follows: bin truck with stationary grinder at centralized landing (base case); bundler with electric grinder; and mobile chipper at slash piles. The total distance between the forest site and the bioenergy facility is set at 50 miles one way. The functional unit is 1 bone-dry ton (BDT) of residues transported from the forest site to the bioenergy facility. Results indicate that the mobile chipper system posts the lowest global warming impact under all types of road distributions (38.2‐41.4 kg CO2 eq [84.2‐91.3 lb CO2 eq]), whereas the base case shows the most rapid reduction in global warming impact as highway distance increases (43.8‐56.9 kg CO2 eq [96.6‐125.4 lb CO2 eq]). Potential impacts from acidification, eutrophication, and smog indicate reduction as highway distance increases. Along these LCA metrics, road conditions play an important role in determining the most efficient residue collection system. As the residue piles are located further from paved highway, the bundler and the mobile chipper systems present greater environmental advantages. Management and Policy Implications Uncertainty in the role of bioenergy for offsetting greenhouse gas (GHG) emissions has prevented wide adoption of bioenergy in the United States. Because of variations in forest site conditions across the country, understanding the environmental impacts of the logistics of forest residue transportation is an important step in maximizing the benefits and use potential of bioenergy. Currently, few studies provide a basis for enhancing management techniques during the processing of forest residues. The actual impact of the logistic scenarios described in this study depend on forest sites, because the location of slash piles may vary based on the geographic features of forest sites and logging activities. Road distances and conditions are taken into account, so forest owners/managers and policymakers would have the option of choosing the best system scenarios based on the distribution of slash piles and the road conditions of particular forest sites. The findings of this study clearly show that the environmental impact associated with the System 1 in-woods residue handling and processing decreases when the proportion of paved highway increases. The location of residual biomass in terms of the existing road conditions would justify the need for an alternate in-woods biomass processing system, such as System 2 or 3. The findings of this study may be applied to a variety of privately or publicly owned forestlands and can apply to a wide audience, including forest managers, logging companies, researchers, and alternative energy production companies. More importantly, this research can be used as a valuable reference for policymakers to improve the requirements and guidelines for managing forest slash piles and in-forest road developments.",
+		"DOI": "10.5849/jof.2016-027",
+		"journalAbbreviation": "Journal of Forestry",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Cindy X."
+			},
+			{
+				"family": "Pierobon",
+				"given": "Francesca"
+			},
+			{
+				"family": "Zamora-Cristales",
+				"given": "Rene"
+			},
+			{
+				"family": "Ganguly",
+				"given": "Indroneil"
+			},
+			{
+				"family": "Sessions",
+				"given": "John"
+			},
+			{
+				"family": "Eastin",
+				"given": "Ivan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/VKSISDB2",
+		"type": "webpage",
+		"title": "Integrated Investment Portfolio | Water & Wastes Digest",
+		"URL": "https://www.wwdmag.com/green-technology/integrated-investment-portfolio",
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/VTXQMQMX",
+		"type": "article-journal",
+		"title": "Nadi Bachao Samriddhi Lao – A forest landscape restoration initiative in Harda district, Madhya Pradesh, India",
+		"container-title": "World Development Perspectives",
+		"page": "1-4",
+		"volume": "4",
+		"source": "ScienceDirect",
+		"abstract": "One of the key challenges in forest landscape restoration (FLR) is achieving synergistic collaboration among major stakeholders. This paper analyses an innovative governance structure that brought together farmers, government agencies, civil society groups, and the private sector to plant over 2.4million trees to stabilise riverbanks in the Harda district of Madhya Pradesh, India. The governance structure facilitated the convergence of interests of different stakeholders, thereby ensuring adequate physical, financial, and human resources for FLR. This paper reiterates the role of responsive institutional and governance structures necessary for successful FLR interventions and identifies important lessons for achieving scale.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2452292916301461",
+		"DOI": "10.1016/j.wdp.2016.11.016",
+		"ISSN": "2452-2929",
+		"journalAbbreviation": "World Development Perspectives",
+		"author": [
+			{
+				"family": "Saigal",
+				"given": "S."
+			},
+			{
+				"family": "Kumar",
+				"given": "C."
+			},
+			{
+				"family": "Chaturvedi",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	}
+]
