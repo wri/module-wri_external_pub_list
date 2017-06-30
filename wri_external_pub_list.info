@@ -1,0 +1,5 @@
+name =  WRI External Publications
+description = Pulls a list of external publications from a json file and lists them on the author page in a tab. 
+package = WRI
+version = 7.x-0.1
+core = 7.x
