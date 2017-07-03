@@ -16,10 +16,9 @@ function getPubs() {
 
 }
 
-
 function searchForId($id, $array) {
    foreach ($array as $key => $val) {
-       if ($val['type'] == $id) {
+       if ($val['volume'] == $id) {
            //return $key;
            return $array[$key]['title'];
        }
@@ -59,10 +58,57 @@ $userdb = Array
 
   $extPub = $itemArray;
 
+  if (isset($_GET['foo'])){
+    $testVar = $_GET['foo'];
+  }
+  else {
+    $testVar = '11';
+  }
 
-$id = searchForId('article-journal', $extPub);
+$id = searchForId($testVar, $extPub);
 
 $message = getPubs();
 
 drupal_set_message(t($id), 'status');
+
+/** 
+* Create the Drupal blocks. 
+*/
+
+ /**
+ * Implements hook_block_info().
+ */
+
+function wri_external_pub_list_block_info() {
+  $blocks = array();
+  $blocks['test'] = array(
+    'info' => t('test info field'),
+  );
+  $blocks['external_publications'] = array(
+    'info' => t('External Publications'),
+    //'cache' => DRUPAL_CACHE_PER_ROLE,
+  );
+  return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+
+function wri_external_pub_list_block_view($delta = '') {
+  $block = array();
+  switch ($delta) {
+      case 'test';
+      $block['subject'] = t('test subject');
+      $block['title'] = t('test title');
+      $block['content'] = t('test content');
+      break;
+    case 'external_publications':
+      $the_block = 'hello pubs';
+      $block['title'] = t('External Publications');
+      $block['content'] = $the_block;
+      break;
+    }
+  return $block;
+}
 
