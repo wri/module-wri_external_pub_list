@@ -18,7 +18,7 @@ function getPubs() {
 
 function searchForId($id, $array) {
    foreach ($array as $key => $val) {
-       if ($val['volume'] == $id) {
+       if ($val['id'] == $id) {
            //return $key;
            return $array[$key]['title'];
        }
@@ -50,6 +50,9 @@ $userdb = Array
         )
 );
 
+
+function getBlock() {
+
   $pubListSrc = "sites/all/modules/wri_external_pub_list/wriauthors.json";
 
   $pubList = file_get_contents($pubListSrc);
@@ -62,14 +65,20 @@ $userdb = Array
     $testVar = $_GET['foo'];
   }
   else {
-    $testVar = '11';
+    $testVar = 'http://zotero.org/groups/1468459/items/VTXQMQMX';
   }
 
-$id = searchForId($testVar, $extPub);
+  $id = searchForId($testVar, $extPub);
+
+  return $id;
+
+}
 
 $message = getPubs();
 
-drupal_set_message(t($id), 'status');
+$message2 = getBlock();
+
+drupal_set_message(t($message2), 'status');
 
 /** 
 * Create the Drupal blocks. 
@@ -84,10 +93,12 @@ function wri_external_pub_list_block_info() {
   $blocks['test'] = array(
     'info' => t('test info field'),
   );
+
   $blocks['external_publications'] = array(
     'info' => t('External Publications'),
     //'cache' => DRUPAL_CACHE_PER_ROLE,
   );
+
   return $blocks;
 }
 
@@ -97,18 +108,21 @@ function wri_external_pub_list_block_info() {
 
 function wri_external_pub_list_block_view($delta = '') {
   $block = array();
+
   switch ($delta) {
-      case 'test';
+    case 'test';
       $block['subject'] = t('test subject');
       $block['title'] = t('test title');
       $block['content'] = t('test content');
       break;
+ 
     case 'external_publications':
-      $the_block = 'hello pubs';
+      $the_block = getBlock();
       $block['title'] = t('External Publications');
       $block['content'] = $the_block;
       break;
     }
+
   return $block;
 }
 
