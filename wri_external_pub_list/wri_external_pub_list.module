@@ -1,6 +1,46 @@
 <?php
 
-function getPubs() {
+$message3 = getLast();
+
+drupal_set_message(t($message3), 'status');
+
+
+function array_find_deep($array, $search, $keys = array()) {
+
+  foreach($array as $key => $value) {
+    if (is_array($value)) {
+      $sub = array_find_deep($value, $search, array_merge($keys, array($key)));
+      if (count($sub)) {
+      return $sub;
+      }
+    } 
+    elseif ($value === $search) { 
+      return array_merge($keys, array($key));
+    }
+  }
+
+  return array();
+}
+
+function getLast() {
+
+  $pageAlias = drupal_get_path_alias();
+  $pieces = explode("-", $pageAlias);
+
+  return ucfirst($pieces[1]);
+
+}
+
+function getFirst() {
+
+  $pageAlias = drupal_get_path_alias();
+  $pieces = explode("-", $pageAlias);
+
+  return ucfirst($pieces[0]);
+
+}
+
+function grabTitles() {
 
   $pubListSrc = "sites/all/modules/wri_external_pub_list/wriauthors.json";
 
@@ -8,85 +48,42 @@ function getPubs() {
 
   $itemArray = json_decode($pubList, true);
 
-  $extPub = $itemArray;
+  $b = $itemArray;
 
-  $test = $extPub[0]['title'];
+  $authLast = getLast();
+  $authFirst = getFirst();
+  $theVarLast = array_find_deep($b, $authLast);
+  $theVarFirst = array_find_deep($b, $authFirst);
 
-  return $test;
-
-}
-
-function searchForId($id, $array) {
-   foreach ($array as $key => $val) {
-       if ($val['id'] == $id) {
-           //return $key;
-           return $array[$key]['title'];
-       }
-   }
-   return null;
-}
-
-$userdb = Array
-(
-    (0) => Array
-        (
-            ('uid') => '100',
-            ('name') => 'Sandra Shush',
-            ('url') => 'urlof100'
-        ),
-
-    (1) => Array
-        (
-            ('uid') => '5465',
-            ('name') => 'Stefanie Mcmohn',
-            ('pic_square') => 'urlof100'
-        ),
-
-    (2) => Array
-        (
-            ('uid') => '40489',
-            ('name') => 'Michael',
-            ('pic_square') => 'urlof40489'
-        )
-);
-
-
-function getBlock() {
-
-  $pubListSrc = "sites/all/modules/wri_external_pub_list/wriauthors.json";
-
-  $pubList = file_get_contents($pubListSrc);
-
-  $itemArray = json_decode($pubList, true);
-
-  $extPub = $itemArray;
-
-  if (isset($_GET['foo'])){
-    $testVar = $_GET['foo'];
+  if ($theVarLast[0] === $theVarFirst[0] && $theVarLast[1] === $theVarFirst[1] && $theVarLast[2] === $theVarFirst[2]) {
+    $authMatch = 'yes';
   }
   else {
-    $testVar = 'http://zotero.org/groups/1468459/items/VTXQMQMX';
+    $authMatch = 'nope';
   }
 
-  $id = searchForId($testVar, $extPub);
+  //echo "<p>Are the names from the same element? = " . $authMatch . "</p>";
 
-  return $id;
+  $pubTitle = $theVarLast[0];
+
+  if ($authMatch == 'yes') {
+    $blockContent = "<p>" . $authLast . ", " . $authFirst . ". \"" . $b[$pubTitle]['title'] . ".\" <em>" . $b[$pubTitle]['container-title'] . "</em> " . $b[$pubTitle]['volume'] . " (" . $b[$pubTitle]['issued']['date-parts'][0][0]  . "): " . $b[$pubTitle]['page'] . ". doi:" . $b[$pubTitle]['DOI'] . ".</p>";
+  }
+  else {
+    $blockContent = "<h1>no match</h1>";
+  }
+
+  return $blockContent;
 
 }
-
-$message = getPubs();
-
-$message2 = getBlock();
-
-drupal_set_message(t($message2), 'status');
 
 /** 
 * Create the Drupal blocks. 
 */
 
- /**
- * Implements hook_block_info().
- */
+/**
+* Implements hook_block_info().
+*/
 
 function wri_external_pub_list_block_info() {
   $blocks = array();
@@ -117,7 +114,7 @@ function wri_external_pub_list_block_view($delta = '') {
       break;
  
     case 'external_publications':
-      $the_block = getBlock();
+      $the_block = grabTitles();
       $block['title'] = t('External Publications');
       $block['content'] = $the_block;
       break;
