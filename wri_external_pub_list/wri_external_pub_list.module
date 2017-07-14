@@ -2,7 +2,7 @@
 
 $message3 = getLast();
 
-drupal_set_message(t($message3), 'status');
+// drupal_set_message(t($message3), 'status');
 
 
 function array_find_deep($array, $search, $keys = array()) {
