@@ -25,20 +25,22 @@ function array_find_deep($array, $search, $keys = array()) {
 function getLast() {
 
   $pageAlias = drupal_get_path_alias();
-  $pieces = explode("-", $pageAlias);
+  $pieces1 = explode("/", $pageAlias);
+  $pieces2 = explode("-", $pieces1[1]);
 
-  //return ucfirst($pieces[1]);
-  return "Waite";  
+  return ucfirst($pieces2[1]);
+  //return "Waite";  
 
 }
 
 function getFirst() {
 
   $pageAlias = drupal_get_path_alias();
-  $pieces = explode("-", $pageAlias);
+  $pieces1 = explode("/", $pageAlias);
+  $pieces2 = explode("-", $pieces1[1]);
 
-  //return ucfirst($pieces[0]);
-  return "Richard";
+  return ucfirst($pieces2[0]);
+  //return "Richard";
 
 }
 
@@ -72,7 +74,7 @@ function grabTitles() {
     $blockContent = "<p>" . $authLast . ", " . $authFirst . ". \"" . $b[$pubTitle]['title'] . ".\" <em>" . $b[$pubTitle]['container-title'] . "</em> " . $b[$pubTitle]['volume'] . " (" . $b[$pubTitle]['issued']['date-parts'][0][0]  . "): " . $b[$pubTitle]['page'] . ". doi:" . $b[$pubTitle]['DOI'] . ".</p>";
   }
   else {
-    $blockContent = "<h1>no match</h1>";
+    $blockContent = "<h1>no match: " . $authFirst . " " . $authLast . "</h1>";
   }
 
   return $blockContent;
