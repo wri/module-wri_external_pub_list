@@ -27,7 +27,8 @@ function getLast() {
   $pageAlias = drupal_get_path_alias();
   $pieces = explode("-", $pageAlias);
 
-  return ucfirst($pieces[1]);
+  //return ucfirst($pieces[1]);
+  return "Waite";  
 
 }
 
@@ -36,13 +37,14 @@ function getFirst() {
   $pageAlias = drupal_get_path_alias();
   $pieces = explode("-", $pageAlias);
 
-  return ucfirst($pieces[0]);
+  //return ucfirst($pieces[0]);
+  return "Richard";
 
 }
 
 function grabTitles() {
 
-  $pubListSrc = "sites/all/modules/wri_external_pub_list/wriauthors.json";
+  $pubListSrc = "sites/all/modules/custom/wri_external_pub_list/wriauthors.json";
 
   $pubList = file_get_contents($pubListSrc);
 
@@ -87,10 +89,6 @@ function grabTitles() {
 
 function wri_external_pub_list_block_info() {
   $blocks = array();
-  $blocks['test'] = array(
-    'info' => t('test info field'),
-  );
-
   $blocks['external_publications'] = array(
     'info' => t('External Publications'),
     //'cache' => DRUPAL_CACHE_PER_ROLE,
@@ -106,17 +104,14 @@ function wri_external_pub_list_block_info() {
 function wri_external_pub_list_block_view($delta = '') {
   $block = array();
 
+  //$content = "external author test content";
+  //$the_block = grabTitles();
+
   switch ($delta) {
-    case 'test';
-      $block['subject'] = t('test subject');
-      $block['title'] = t('test title');
-      $block['content'] = t('test content');
-      break;
- 
     case 'external_publications':
-      $the_block = grabTitles();
-      $block['title'] = t('External Publications');
-      $block['content'] = $the_block;
+      //$block['subject'] = t('List of external publications for author pages');
+      //$block['title'] = t('External Publications');
+      $block['content'] = grabTitles();
       break;
     }
 
