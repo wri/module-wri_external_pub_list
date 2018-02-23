@@ -70,14 +70,19 @@ function grabTitles() {
 
   $pubTitle = $theVarLast[0];
 
+  $forceMatchMessage = False;
+
   if ($authMatch == 'yes' && $b[$pubTitle]['title'] != '') {
     $blockContent = "<p>" . $authLast . ", " . $authFirst . ". \"" . $b[$pubTitle]['title'] . ".\" <em>" . $b[$pubTitle]['container-title'] . "</em> " . $b[$pubTitle]['volume'] . " (" . $b[$pubTitle]['issued']['date-parts'][0][0]  . "): " . $b[$pubTitle]['page'] . ". doi:" . $b[$pubTitle]['DOI'] . ".</p>";
+  }
+  elseif ($forceMatchMessage) {
+    $blockContent = "<h1>no match: " . $authFirst . " " . $authLast . "</h1";
   }
   else {
     $blockContent = "<h1>no match: " . $authFirst . " " . $authLast . "</h1>
     <style>
       .pane-wri-external-pub-list-external-publications { display: none !important; }
-      #content .nav-item:last-child { display: none !important; }
+      #content .nav--tabs .nav-item:last-child { display: none !important; }
     </style>
     ";
   }
@@ -111,13 +116,12 @@ function wri_external_pub_list_block_info() {
 function wri_external_pub_list_block_view($delta = '') {
   $block = array();
 
-  //$content = "external author test content";
-  //$the_block = grabTitles();
+  //$content = "external author test pub title";
 
   switch ($delta) {
     case 'external_publications':
-      //$block['subject'] = t('List of external publications for author pages');
-      //$block['title'] = t('External Publications');
+      $block['subject'] = t('List of external publications for author pages');
+      $block['title'] = t('External Publications');
       $block['content'] = grabTitles();
       break;
     }
