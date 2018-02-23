@@ -1,5 +1,150 @@
 [
 	{
+		"id": "http://zotero.org/groups/1468459/items/BZCXZ638",
+		"type": "article-journal",
+		"title": "Climate Change and the UN Security Council: Bully Pulpit or Bull in a China Shop?",
+		"container-title": "Global Environmental Politics",
+		"page": "1-20",
+		"volume": "17",
+		"issue": "2",
+		"abstract": "Although claims about climate/conflict links remain contested, concerns that climate change will affect peace and security have gained traction in academic, activist, and policy circles. One set of pressures for responsive action has centered on the UN Security Council, which has held several often-contentious debates on the topic. Whether the Council should address climate change is a highly politicized question, tied to controversies about the Council?s mandate, membership reform, and the appropriate division of labor in the UN system. Lost in this political debate has been a more fundamental question?what exactly could the Council do? We examine six specific proposals for Council action culled from the academic and policy literature and the public positions of member states. These include incorporating climate risks into peacekeeping operations, developing an early-warning system, managing the threat to small-island states, engaging in preventive diplomacy, addressing climate refugees, and embracing a climate-related analogy to the norm of a responsibility to protect. For each proposal, our analysis?which is based on interviews conducted at the UN, archival research, and case histories of past instances of adapting the Council?s focus to new challenges?examines what it would mean and require for the Council to act. We also identify a series of measures that constitute a ?pragmatic transformative? agenda. These steps recognize the poor fit between the climate challenge and the Council as it is currently constituted, but also the potential to use climate as part of a larger transformation toward the better Council the world needs.",
+		"URL": "http://dx.doi.org/10.1162/GLEP_a_00398",
+		"DOI": "10.1162/GLEP_a_00398",
+		"ISSN": "1526-3800",
+		"journalAbbreviation": "Global Environmental Politics",
+		"author": [
+			{
+				"family": "Conca",
+				"given": "Ken"
+			},
+			{
+				"family": "Thwaites",
+				"given": "Joe"
+			},
+			{
+				"family": "Lee",
+				"given": "Goueun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					7,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/G5JQUW9P",
+		"type": "article-journal",
+		"title": "Valuing climate change impacts on European forest ecosystems",
+		"container-title": "Ecosystem Services",
+		"page": "141-153",
+		"volume": "18",
+		"source": "CrossRef",
+		"URL": "http://linkinghub.elsevier.com/retrieve/pii/S2212041616300614",
+		"DOI": "10.1016/j.ecoser.2016.02.039",
+		"ISSN": "22120416",
+		"language": "en",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Chiabai",
+				"given": "Aline"
+			},
+			{
+				"family": "Silvestri",
+				"given": "Silvia"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A.L.D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/QTQD4QGI",
+		"type": "article-journal",
+		"title": "Pay for Performance: Optimizing public investments in agricultural best management practices in the Chesapeake Bay Watershed",
+		"container-title": "Ecological Economics",
+		"page": "252-261",
+		"volume": "118",
+		"source": "ScienceDirect",
+		"abstract": "Agricultural best management practices (BMPs) such as streamside buffer zones and cover crops are increasingly being used to reduce nutrient pollution into water bodies. Eutrophication from fertilizer runoff is the key driver behind growth of hypoxic “dead zones” where fish production comes to a standstill. Governments heavily subsidize BMPs, but do not generally allocate funds to maximize their environmental benefits. But with ever-increasing fiscal constraints, policy makers are searching for ways to enhance efficiency of BMP programs. Pay for performance presents an alternative platform based on nutrient reduction achieved. This paper compares a conventional subsidy approach with pay for performance for BMPs designed to reduce nutrient pollution into the Chesapeake Bay. We model four paired scenarios using a constrained optimization model. In the first pairing we held the level of nutrient reduction constant and compared cost effectiveness of the two subsidy allocation methods. In the second pairing we held the level of program investment constant and compared nutrient reduction outcomes. In both pairings, pay for performance was far superior — delivering identical nutrient reduction outcomes at less than half the cost in the first and delivering two to three times the amount of nutrient reduction for the same budget allocation in the second.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0921800915003365",
+		"DOI": "10.1016/j.ecolecon.2015.07.033",
+		"ISSN": "0921-8009",
+		"shortTitle": "Pay for Performance",
+		"journalAbbreviation": "Ecological Economics",
+		"author": [
+			{
+				"family": "Talberth",
+				"given": "John"
+			},
+			{
+				"family": "Selman",
+				"given": "Mindy"
+			},
+			{
+				"family": "Walker",
+				"given": "Sara"
+			},
+			{
+				"family": "Gray",
+				"given": "Erin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/groups/1468459/items/AKESVUQF",
 		"type": "article-journal",
 		"title": "Use of coastal economic valuation in decision making in the Caribbean: Enabling conditions and lessons learned",
@@ -114,48 +259,31 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/239CV5XJ",
-		"type": "webpage",
-		"title": "Valuing climate change impacts on European forest ecosystems - ScienceDirect",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S2212041616300614?via%3Dihub",
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/2NT9XX48",
+		"id": "http://zotero.org/groups/1468459/items/9ENR8U7Z",
 		"type": "article-journal",
-		"title": "Evaluating the impacts of the clean cities program",
-		"container-title": "Science of The Total Environment",
-		"page": "254-262",
-		"volume": "579",
+		"title": "Delivering modal-shift incentives by using gamification and smartphones: A field study example in Bogota, Colombia",
+		"container-title": "Case Studies on Transport Policy",
+		"page": "269-278",
+		"volume": "4",
+		"issue": "4",
 		"source": "ScienceDirect",
-		"abstract": "The Department of Energy's Clean Cities program was created in 1993 to reduce petroleum usage in the transportation sector. The program promotes alternative fuels such as biofuels and fuel-saving strategies such as idle reduction and fleet management through coalitions of local government, non-profit, and private actors. Few studies have evaluated the impact of the program because of its complexity that include interrelated strategies of grants, education and training and diversity of participants. This paper uses a Difference-in-Differences (DiD) approach to evaluate the effectiveness of the program between 1990 and 2010. We quantify the effectiveness of the Clean Cities program by focusing on performance measures such as air quality, number of alternative fueling stations, private vehicle occupancy and transit ridership. We find that counties that participate in the program perform better on all these measures compared to counties that did not participate. Compared to the control group, counties in the Clean Cities program experienced a reduction in days with bad air quality (3.7%), a decrease in automobile commuters (2.9%), an overall increase in transit commuters (2.1%) and had greater numbers of new alternative fueling stations (12.9). The results suggest that the program is a qualified success.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S0048969716325736",
-		"DOI": "10.1016/j.scitotenv.2016.11.119",
-		"ISSN": "0048-9697",
-		"journalAbbreviation": "Science of The Total Environment",
+		"abstract": "This study investigates the use of both monetary and non-monetary incentives delivered through mobile phones, as a way of modifying citizens’ behaviour, specifically when it comes to generating modal shift towards more environmentally friendly modes of transport such as walking and cycling. A field study was carried out in the city of Bogota, Colombia using the concept of gamification. 20 subjects recorded their commuting trips for a two week period using a smartphone app that was developed specifically for this purpose. Statistical analysis of the data showed that, even though there was an observed percentage change in mode choice from week 1 to week 2 towards higher incentivised modes (i.e. cycling and walking), the change is not statistically significant and therefore cannot be attributed to the incentives delivered during week 2. Furthermore even though there was an increase in the total time and distance recorded by the entire group of subjects (from 498.7km and 32.5h during the first week to 799.9km and 58.5h during the second week), the subjects did not alter their travel patterns significantly.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2213624X16300426",
+		"DOI": "10.1016/j.cstp.2016.08.008",
+		"ISSN": "2213-624X",
+		"shortTitle": "Delivering modal-shift incentives by using gamification and smartphones",
+		"journalAbbreviation": "Case Studies on Transport Policy",
 		"author": [
 			{
-				"family": "Qiu",
-				"given": "Shiyong"
-			},
-			{
-				"family": "Kaza",
-				"given": "Nikhil"
+				"family": "Castellanos",
+				"given": "Sebastián"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2017",
-					2,
+					"2016",
+					12,
 					1
 				]
 			]
@@ -163,105 +291,37 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2017",
-					6,
-					19
+					"2018",
+					1,
+					31
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/4U5RIMCJ",
-		"type": "webpage",
-		"title": "Linkage between passenger demand and surrounding land-use patterns at urban rail transit stations: A canonical correlation analysis method and case study in Chongqing - ScienceDirect",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S2046043016000034?via%3Dihub",
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/G5JQUW9P",
+		"id": "http://zotero.org/groups/1468459/items/F3JKM9W4",
 		"type": "article-journal",
-		"title": "Valuing climate change impacts on European forest ecosystems",
-		"container-title": "Ecosystem Services",
-		"page": "141-153",
-		"volume": "18",
-		"source": "CrossRef",
-		"URL": "http://linkinghub.elsevier.com/retrieve/pii/S2212041616300614",
-		"DOI": "10.1016/j.ecoser.2016.02.039",
-		"ISSN": "22120416",
+		"title": "Conservation Beyond Park Boundaries: The Impact of Buffer Zones on Deforestation and Mining Concessions in the Peruvian Amazon",
+		"container-title": "Environmental Management",
+		"page": "297-311",
+		"volume": "58",
+		"issue": "2",
+		"source": "rd.springer.com",
+		"abstract": "Many researchers have tested whether protected areas save tropical forest, but generally focus on parks and reserves, management units that have internationally recognized standing and clear objective",
+		"URL": "https://link.springer.com/article/10.1007/s00267-016-0709-z",
+		"DOI": "10.1007/s00267-016-0709-z",
+		"ISSN": "0364-152X, 1432-1009",
+		"shortTitle": "Conservation Beyond Park Boundaries",
+		"journalAbbreviation": "Environmental Management",
 		"language": "en",
 		"author": [
 			{
-				"family": "Ding",
-				"given": "Helen"
+				"family": "Weisse",
+				"given": "Mikaela J."
 			},
 			{
-				"family": "Chiabai",
-				"given": "Aline"
-			},
-			{
-				"family": "Silvestri",
-				"given": "Silvia"
-			},
-			{
-				"family": "Nunes",
-				"given": "Paulo A.L.D."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					4
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/HTFQTPAG",
-		"type": "article-journal",
-		"title": "Exploring the link between the neighborhood typologies, bicycle infrastructure and commuting cycling over time and the potential impact on commuter GHG emissions",
-		"container-title": "Transportation Research Part D: Transport and Environment",
-		"page": "89-103",
-		"volume": "47",
-		"source": "ScienceDirect",
-		"abstract": "This paper investigates the evolution of urban cycling in Montreal, Canada and its link to both built environment indicators and bicycle infrastructure accessibility. The effect of new cycling infrastructure on transport-related greenhouse gas (GHG) emissions is then explored. More specifically, we aim at investigating how commuting cycling modal share has evolved across neighborhood built-environment typologies and over time in Montreal, Canada. For this purpose, automobile and bicycle trip information from origin–destination surveys for the years 1998, 2003 and 2008 are used. Neighborhood typologies are generated from different built environment indicators (population and employment density, land use diversity, etc.). Furthermore, to represent the commuter mode choice (bicycle vs automobile), a standard binary logit and simultaneous equation modeling approach are adopted to represent the mode choice and the household location. Among other things, we observe an important increase in the likelihood to cycle across built environment types and over time in the study region. In particular, urban and urban-suburb neighborhoods have experienced an important growth over the 10years, going from a modal split of 2.8–5.3% and 1.4–3.0%, respectively. After controlling for other factors, the model regression analysis also confirms the important increase across years as well as the significant differences of bicycle ridership across neighborhoods. A statistically significant association is also found between the index of bicycle infrastructure accessibility and bike mode choice – an increase of 10% in the accessibility index results in a 3.7% increase in the ridership. Based on the estimated models and in combination with a GHG inventory at the trip level, the potential impact of planned cycling infrastructure is explored using a basic scenario. A reduction of close to 2% in GHG emissions is observed for an increase of 7% in the length of the bicycle network. Results show the important benefits of bicycle infrastructure to reduce commuting automobile usage and GHG emissions.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S136192091630270X",
-		"DOI": "10.1016/j.trd.2016.05.008",
-		"ISSN": "1361-9209",
-		"journalAbbreviation": "Transportation Research Part D: Transport and Environment",
-		"author": [
-			{
-				"family": "Zahabi",
-				"given": "Seyed Amir H."
-			},
-			{
-				"family": "Chang",
-				"given": "Annie"
-			},
-			{
-				"family": "Miranda-Moreno",
-				"given": "Luis F."
-			},
-			{
-				"family": "Patterson",
-				"given": "Zachary"
+				"family": "Naughton-Treves",
+				"given": "Lisa C."
 			}
 		],
 		"issued": {
@@ -276,123 +336,151 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2017",
-					6,
-					19
+					"2018",
+					1,
+					31
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/IJWZ2Q3G",
+		"id": "http://zotero.org/groups/1468459/items/J66FUYCW",
 		"type": "article-journal",
-		"title": "Deforestation and timber production in Congo after implementation of sustainable management policy: A reaction to the article by J.S. Brandt, C. Nolte and A. Agrawal (Land Use Policy 52:15–22)",
-		"container-title": "Land Use Policy",
-		"page": "62-65",
-		"volume": "65",
-		"source": "ScienceDirect",
-		"abstract": "This viewpoint paper presents a reaction to the article by Brandt et al. (2016). It highlights the complexities inherent to the attribution of deforestation impacts to policy interventions when using remote-sensing data. This critique argues that in the context of the Congo a suite of factors (i.e., population density in particular) other than those considered by Brandt et al. (e.g., type of forest, distance from roads and markets) play essential roles in determining the fates of forests. It also contends that care is needed when making decisions regarding which units will be included in the comparison group so that contextual factors and on-the-ground information are properly considered (e.g., when logging operations are inactive or when a concession is used for ‘conservation’ purposes). Finally, it proposes that a focus on an analysis of deforestation rates for a given level of timber production might be a metric that more accurately represents one aspect of the consequences of forest management, which should also consider the appraisal of trade-offs associated with a larger set of social, financial and ecological objectives.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S0264837716307839",
-		"DOI": "10.1016/j.landusepol.2017.02.032",
-		"ISSN": "0264-8377",
-		"shortTitle": "Deforestation and timber production in Congo after implementation of sustainable management policy",
-		"journalAbbreviation": "Land Use Policy",
+		"title": "Using spatial statistics to identify emerging hot spots of forest loss",
+		"container-title": "Environmental Research Letters",
+		"page": "024012",
+		"volume": "12",
+		"issue": "2",
+		"source": "Institute of Physics",
+		"abstract": "As sources of data for global forest monitoring grow larger, more complex and numerous, data analysis and interpretation become critical bottlenecks for effectively using them to inform land use policy discussions. Here in this paper, we present a method that combines big data analytical tools with Emerging Hot Spot Analysis (ArcGIS) to identify statistically significant spatiotemporal trends of forest loss in Brazil, Indonesia and the Democratic Republic of Congo (DRC) between 2000 and 2014. Results indicate that while the overall rate of forest loss in Brazil declined over the 14-year time period, spatiotemporal patterns of loss shifted, with forest loss significantly diminishing within the Amazonian states of Mato Grosso and Rondônia and intensifying within the cerrado biome. In Indonesia, forest loss intensified in Riau province in Sumatra and in Sukamara and West Kotawaringin regencies in Central Kalimantan. Substantial portions of West Kalimantan became new and statistically significant hot spots of forest loss in the years 2013 and 2014. Similarly, vast areas of DRC emerged as significant new hot spots of forest loss, with intensified loss radiating out from city centers such as Beni and Kisangani. While our results focus on identifying significant trends at the national scale, we also demonstrate the scalability of our approach to smaller or larger regions depending on the area of interest and specific research question involved. When combined with other contextual information, these statistical data models can help isolate the most significant clusters of loss occurring over dynamic forest landscapes and provide more coherent guidance for the allocation of resources for forest monitoring and enforcement efforts.",
+		"URL": "http://stacks.iop.org/1748-9326/12/i=2/a=024012",
+		"DOI": "10.1088/1748-9326/aa5a2f",
+		"ISSN": "1748-9326",
+		"journalAbbreviation": "Environ. Res. Lett.",
+		"language": "en",
 		"author": [
 			{
-				"family": "Karsenty",
-				"given": "Alain"
+				"family": "Harris",
+				"given": "Nancy L."
 			},
 			{
-				"family": "Romero",
-				"given": "Claudia"
+				"family": "Goldman",
+				"given": "Elizabeth"
 			},
 			{
-				"family": "Cerutti",
-				"given": "Paolo Omar"
+				"family": "Gabris",
+				"given": "Christopher"
 			},
 			{
-				"family": "Doucet",
-				"given": "Jean-Louis"
+				"family": "Nordling",
+				"given": "Jon"
 			},
 			{
-				"family": "Putz",
-				"given": "Francis E."
+				"family": "Minnemeyer",
+				"given": "Susan"
 			},
 			{
-				"family": "Bernard",
-				"given": "Christelle"
+				"literal": "Stephen Ansari"
 			},
 			{
-				"family": "Atyi",
-				"given": "Richard Eba’a"
+				"family": "Lippmann",
+				"given": "Michael"
 			},
 			{
-				"family": "Douard",
-				"given": "Pascal"
+				"family": "Bennett",
+				"given": "Lauren"
 			},
 			{
-				"family": "Claeys",
-				"given": "Florian"
+				"family": "Raad",
+				"given": "Mansour"
 			},
 			{
-				"family": "Desbureaux",
-				"given": "Sébastien"
+				"family": "Hansen",
+				"given": "Matthew"
 			},
 			{
-				"family": "Blas",
-				"given": "Driss Ezzine",
-				"dropping-particle": "de"
-			},
-			{
-				"family": "Fayolle",
-				"given": "Adeline"
-			},
-			{
-				"family": "Fomété",
-				"given": "Timothée"
-			},
-			{
-				"family": "Forni",
-				"given": "Eric"
-			},
-			{
-				"family": "Gond",
-				"given": "Valéry"
-			},
-			{
-				"family": "Gourlet-Fleury",
-				"given": "Sylvie"
-			},
-			{
-				"family": "Kleinschroth",
-				"given": "Fritz"
-			},
-			{
-				"family": "Mortier",
-				"given": "Frédéric"
-			},
-			{
-				"family": "Nasi",
-				"given": "Robert"
-			},
-			{
-				"family": "Nguinguiri",
-				"given": "Jean Claude"
-			},
-			{
-				"family": "Vermeulen",
-				"given": "Cédric"
-			},
-			{
-				"family": "Wasseige",
-				"given": "Carlos",
-				"non-dropping-particle": "de"
+				"family": "Potapov",
+				"given": "Peter"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2017",
+					"2017"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/9992NNS2",
+		"type": "article-journal",
+		"title": "Paris Agreement climate proposals need a boost to keep warming well below 2 °C",
+		"container-title": "Nature",
+		"page": "631",
+		"volume": "534",
+		"issue": "7609",
+		"source": "www.nature.com",
+		"abstract": "<p>The objective of the Paris climate agreement is to limit global-average temperature increase to well below 2 degrees Celsius above pre-industrial levels and to further pursue limiting it to 1.5 degrees Celsius; here, the adequacy of the national plans submitted in preparation for this agreement is assessed, and it is concluded that substantial enhancement or over-delivery on these plans is required to have a reasonable chance of achieving the Paris climate objective.</p>",
+		"URL": "https://www.nature.com/articles/nature18307",
+		"DOI": "10.1038/nature18307",
+		"ISSN": "1476-4687",
+		"language": "En",
+		"author": [
+			{
+				"family": "Rogelj",
+				"given": "Joeri"
+			},
+			{
+				"family": "Elzen",
+				"given": "Michel",
+				"dropping-particle": "den"
+			},
+			{
+				"family": "Höhne",
+				"given": "Niklas"
+			},
+			{
+				"family": "Fransen",
+				"given": "Taryn"
+			},
+			{
+				"family": "Fekete",
+				"given": "Hanna"
+			},
+			{
+				"family": "Winkler",
+				"given": "Harald"
+			},
+			{
+				"family": "Schaeffer",
+				"given": "Roberto"
+			},
+			{
+				"family": "Sha",
+				"given": "Fu"
+			},
+			{
+				"family": "Riahi",
+				"given": "Keywan"
+			},
+			{
+				"family": "Meinshausen",
+				"given": "Malte"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
 					6
 				]
 			]
@@ -400,71 +488,121 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2017",
-					6,
-					19
+					"2018",
+					1,
+					31
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/KEIWM89B",
+		"id": "http://zotero.org/groups/1468459/items/5XQLVYAJ",
 		"type": "article-journal",
-		"title": "Improving land management in Brazil: A perspective from producers",
-		"container-title": "Agriculture, Ecosystems & Environment",
-		"page": "276-286",
-		"volume": "240",
-		"source": "ScienceDirect",
-		"abstract": "The low productivity of many tropical pasturelands is a major driver of deforestation and other negative environmental and socio-economic impacts. In Brazil, the second biggest meat producer in the world, 85% of cattle farms remain within extensive pasture systems, and cattle farming is by far the most important proximate driver of deforestation. It is possible to expand Brazilian agriculture with zero deforestation through improvements to rangeland productivity yet understanding of the challenges and motivations of the actual cattle farmers in the face of such a transition remains sparse. To better understand the importance of the underlying factors that lead to or inhibit improvements to land management, we used focus groups and semi-structured interviews (N = 250) with farmers from the state of Mato Grosso in the Brazilian Amazon. We found that the majority of the respondents (60%) claimed that the principal benefit of adopting good agricultural practices was increased productivity, followed by increased income (43%) and better farm administrative management (34%). The adoption of improved pasture management techniques was positively correlated with stocking rates (p &lt; 0.005, r = 0.48). Farms that adopted improved pasture management, most often through rotational grazing had, on average, lower levels of forest cover (p &lt; 0.05, r = 0.22). We found that scarcity of labour was the major issue affecting the adoption of improved techniques (36%), followed by financial constraints (18%). We also identified a shortfall in access to technical extension services to be a significant problem because 40% of the technical assistance is currently provided by vendors of fertilizers and other chemicals. To our knowledge, this is the first study to systematically assess the barriers to and the conditions surrounding the adoption of good agricultural practices in Brazilian pasturelands from the perspective of the farmers from the Amazon involved in the implementation of these practices. It is critical that decision-makers involved in the design of technical assistance schemes, education and credit programmes consider these factors if sustainable land management is to be realised at scale. In particular, the lack of skilled and available labour contrasts with the widespread assumption that new credit lines for sustainable agriculture will automatically result in better land management. A failure to consider factors discussed in this paper may contribute to the continued clearance of native vegetation and the environmental degradation of existing pasturelands, in addition to the persistence of widespread poverty among cattle-farmers. These results can assist the large scale implementation of sustainable land use policies in Brazil and elsewhere.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S0167880917300634",
-		"DOI": "10.1016/j.agee.2017.01.043",
-		"ISSN": "0167-8809",
-		"shortTitle": "Improving land management in Brazil",
-		"journalAbbreviation": "Agriculture, Ecosystems & Environment",
+		"title": "Hard times for the Brazilian environment",
+		"container-title": "Nature Ecology & Evolution",
+		"page": "1213",
+		"volume": "1",
+		"issue": "9",
+		"source": "www.nature.com",
+		"abstract": "Correspondence",
+		"URL": "https://www.nature.com/articles/s41559-017-0303-7",
+		"DOI": "10.1038/s41559-017-0303-7",
+		"ISSN": "2397-334X",
+		"language": "En",
 		"author": [
 			{
-				"family": "Latawiec",
-				"given": "Agnieszka E."
-			},
-			{
-				"family": "Strassburg",
-				"given": "Bernardo B. N."
-			},
-			{
-				"family": "Silva",
-				"given": "Daniel"
-			},
-			{
-				"family": "Alves-Pinto",
-				"given": "Helena Nery"
+				"family": "Crouzeilles",
+				"given": "Renato"
 			},
 			{
 				"family": "Feltran-Barbieri",
 				"given": "Rafael"
 			},
 			{
-				"family": "Castro",
-				"given": "Ana"
+				"family": "Ferreira",
+				"given": "Mariana S."
+			},
+			{
+				"family": "Strassburg",
+				"given": "Bernardo B. N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/NN5Q4WFA",
+		"type": "webpage",
+		"title": "Moment of truth for the Cerrado hotspot",
+		"container-title": "Nature Ecology & Evolution",
+		"genre": "Comments and Opinion",
+		"abstract": "<p>Despite projections of a severe extinction event, a window of opportunity is now open for a mix of policies to avoid biodiversity collapse in the Cerrado hotspot.</p>",
+		"URL": "https://www.nature.com/articles/s41559-017-0099",
+		"note": "DOI: 10.1038/s41559-017-0099",
+		"language": "En",
+		"author": [
+			{
+				"family": "Strassburg",
+				"given": "Bernardo B. N."
+			},
+			{
+				"family": "Brooks",
+				"given": "Thomas"
+			},
+			{
+				"family": "Feltran-Barbieri",
+				"given": "Rafael"
 			},
 			{
 				"family": "Iribarrem",
 				"given": "Alvaro"
 			},
 			{
-				"family": "Rangel",
-				"given": "Márcio Cordeiro"
+				"family": "Crouzeilles",
+				"given": "Renato"
 			},
 			{
-				"family": "Kalif",
-				"given": "Kemel Amin B."
+				"family": "Loyola",
+				"given": "Rafael"
 			},
 			{
-				"family": "Gardner",
-				"given": "Toby"
+				"family": "Latawiec",
+				"given": "Agnieszka E."
 			},
 			{
-				"family": "Beduschi",
-				"given": "Francisco"
+				"family": "Filho",
+				"given": "Francisco J. B. Oliveira"
+			},
+			{
+				"family": "Scaramuzza",
+				"given": "Carlos A. de M."
+			},
+			{
+				"family": "Scarano",
+				"given": "Fabio R."
+			},
+			{
+				"family": "Soares-Filho",
+				"given": "Britaldo"
+			},
+			{
+				"family": "Balmford",
+				"given": "Andrew"
 			}
 		],
 		"issued": {
@@ -472,6 +610,97 @@
 				[
 					"2017",
 					3,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/IYCHR5E2",
+		"type": "article-journal",
+		"title": "The effects of ride-hailing companies on the taxicab industry in Las Vegas, Nevada",
+		"container-title": "Transportation Research Part A: Policy and Practice",
+		"source": "ScienceDirect",
+		"abstract": "Ride-hailing, or ride-sourcing, companies continue to penetrate the growing market of transportation-for-hire services in major metropolitan cities all across the globe, both revolutionizing travel and redefining the concept of the taxicab experience. Since the fall of 2015, Las Vegas, Nevada, was added to the ever-growing list of metropolises with such ride-hailing companies (RHCs). For cities whose economies are built predominately on the foundations of tourism, questions inevitably have been raised regarding the effects that RHCs have on their respective transportation system operators, in particular, the taxicab industry. In Las Vegas, services such as Uber (Uber Technologies Inc.) and Lyft (Lyft.com) compete directly with the taxicab industry for riders within the resort corridor and across the valley. In this study, a multinomial linear regression analysis used a multi-modal, time-series travel dataset to estimate the effects of RHCs on taxicab ridership. After controlling for a number of explanatory variables, including the total number of monthly visitors, transit ridership, ride-hailing trip counts to/from the airport and several other socioeconomic indicators, the results showed that RHCs do in fact have a negative, and significant, effect on taxicab ridership. A perhaps more profound and counterintuitive finding however was that transit ridership along the resort corridor actually complements (rather than competes with) taxi ridership; this could have significant implications moving forward.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0965856417300538",
+		"DOI": "10.1016/j.tra.2017.11.008",
+		"ISSN": "0965-8564",
+		"journalAbbreviation": "Transportation Research Part A: Policy and Practice",
+		"author": [
+			{
+				"family": "Contreras",
+				"given": "Seth D."
+			},
+			{
+				"family": "Paz",
+				"given": "Alexander"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/FRQZGH9E",
+		"type": "article-journal",
+		"title": "Mega events and the transformation of Rio de Janeiro into a mass-transit city",
+		"container-title": "Research in Transportation Economics",
+		"collection-title": "Competition and Ownership in Land Passenger Transport (selected papers from the Thredbo 14 conference)",
+		"page": "196-203",
+		"volume": "59",
+		"source": "ScienceDirect",
+		"abstract": "After bidding three times, Rio de Janeiro was finally selected to host the 2016 Olympic Games. In its third and successful attempt, Rio changed the focus of its transit supply strategy from rail to bus, with BRT corridors featuring as the main innovation. The backbone of the plan included the implementation of an integrated high-capacity bus based transit network fully integrated to other modes including boat, LRT, metro and suburban rail. Once fully implemented, Rio shall have a world-class transit system and expects the share of daily trips made by mass transit to increase from 18% to 63%, benefiting almost 1.5 million passengers per day. We focus our work in describing bus improvements from regulation and control to the implementation of BRS lanes and four BRT corridors. We address benefits in terms of travel time and emissions from optimizing services and renewing the bus fleet. We highlight the gains in user's satisfaction before and after the BRT. We also report measures to improve safety of the bus transit system and important challenges that still lie ahead to overcome problems deriving from the own success of BRT and from overestimating the performance of important BRT components.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0739885915300640",
+		"DOI": "10.1016/j.retrec.2016.07.024",
+		"ISSN": "0739-8859",
+		"journalAbbreviation": "Research in Transportation Economics",
+		"author": [
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			},
+			{
+				"family": "Petzhold",
+				"given": "Guillermo"
+			},
+			{
+				"family": "Tavares",
+				"given": "Virginia Bergamaschi"
+			},
+			{
+				"family": "Facchini",
+				"given": "Daniela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
 					1
 				]
 			]
@@ -479,15 +708,388 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2017",
-					6,
-					19
+					"2018",
+					1,
+					31
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/QTQD4QGI",
+		"id": "http://zotero.org/groups/1468459/items/QI3ZLE7D",
+		"type": "article-journal",
+		"title": "Barriers to planning and implementing Bus Rapid Transit systems",
+		"container-title": "Research in Transportation Economics",
+		"collection-title": "Competition and Ownership in Land Passenger Transport (selected papers from the Thredbo 13 conference)",
+		"page": "9-15",
+		"volume": "48",
+		"source": "ScienceDirect",
+		"abstract": "Bus Rapid Transit, BRT, is now operating in many cities of emerging and developed economies around the world. It provides affordable connectivity, and fast and reliable services for a range of requirements. This paper presents barriers to introducing BRT based on the authors' experience in planning, implementing and improving these systems in cities of emerging countries. We conclude that most issues are related to institutional, financial, legal and political sectors. In particular, BRT planning faces: (i) institutional complexities and lack of technical capacity; (ii) lack of alignment among stakeholders; (iii) strong promotion of competing modes; (iv) perception of BRT as a lower quality mode; (v) traditional bias towards vehicle capacity expansions; (vi) opposition from existing bus operators; and (vii) lack of community participation. BRT implementation barriers include: (i) underestimating the implementation effort, i.e. optimism bias; (ii) discontinuities due to political cycles; (iii) lack of national policies supporting BRT development; (iv) insufficient funding for adequate implementation; and (v) rushed inauguration. By addressing and documenting common issues of many real world experiences, we expect to help cities enhance their ability to advance BRT as part of their portfolio of sustainable mobility improvements.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0739885914000675",
+		"DOI": "10.1016/j.retrec.2014.09.026",
+		"ISSN": "0739-8859",
+		"journalAbbreviation": "Research in Transportation Economics",
+		"author": [
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			},
+			{
+				"family": "Hidalgo",
+				"given": "Dario"
+			},
+			{
+				"family": "Almeida Lobo",
+				"given": "Adriana",
+				"non-dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/JK8BXMIU",
+		"type": "article-journal",
+		"title": "Exhaust emissions of transit buses: Brazil and India case studies",
+		"container-title": "Research in Transportation Economics",
+		"collection-title": "Competition and Ownership in Land Passenger Transport (selected papers from the Thredbo 13 conference)",
+		"page": "323-329",
+		"volume": "48",
+		"source": "ScienceDirect",
+		"abstract": "In order to aid fleet fuel choices, specifically in Brazil and India, this report compiles emissions testing data from in-use or real world drive cycle tests. The data is used to compare the range of emissions for four emissions that are commonly regulated by emissions standards (CO, THC, NOx, PM) and CO2 emissions. The combined results of the analysis show some of the best performing fuel options in Brazil and India are 20% blend Biodiesel with Diesel Particular Filter and Selective Catalytic Reduction (B20 + DPF + SCR) and Compressed Natural Gas with Three Way Catalyst (CNG + 3WC). However, other fuel or technology options provide meaningful results – CNG fuels or Hybrid buses can provide significant PM reductions or CO2 reductions, respectively. For fleet decisions, further aspects of the local context should be considered as well, such as the impact of maintenance practices, altitude, and local driving cycles on emissions when making vehicle decisions. Also, the usual practice of covering the capital costs out of user fares may not be applicable for the introduction of cleaner buses; the use of national and international funds may be applicable, as the cleaner technologies help achieve energy consumption or emissions reduction targets.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0739885914001000",
+		"DOI": "10.1016/j.retrec.2014.09.059",
+		"ISSN": "0739-8859",
+		"shortTitle": "Exhaust emissions of transit buses",
+		"journalAbbreviation": "Research in Transportation Economics",
+		"author": [
+			{
+				"family": "Cooper",
+				"given": "Erin"
+			},
+			{
+				"family": "Arioli",
+				"given": "Magdala"
+			},
+			{
+				"family": "Carrigan",
+				"given": "Aileen"
+			},
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/89BE3S4X",
+		"type": "article-journal",
+		"title": "Traffic safety in surface public transport systems: a synthesis of research",
+		"container-title": "Public Transport",
+		"page": "121-137",
+		"volume": "7",
+		"issue": "2",
+		"source": "rd.springer.com",
+		"abstract": "While there is a growing body of literature on transit safety, most studies on this topic tend to focus on a single type of transit system or on a single city. There is a need for a better understandi",
+		"URL": "https://link.springer.com/article/10.1007/s12469-014-0087-y",
+		"DOI": "10.1007/s12469-014-0087-y",
+		"ISSN": "1866-749X, 1613-7159",
+		"shortTitle": "Traffic safety in surface public transport systems",
+		"journalAbbreviation": "Public Transp",
+		"language": "en",
+		"author": [
+			{
+				"family": "Duduta",
+				"given": "Nicolae"
+			},
+			{
+				"family": "Adriazola",
+				"given": "Claudia"
+			},
+			{
+				"family": "Hidalgo",
+				"given": "Dario"
+			},
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			},
+			{
+				"family": "Jaffe",
+				"given": "Rebecca"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/V59HS393",
+		"type": "article-journal",
+		"title": "Assessing factors influencing a possible South China tiger reintroduction: a survey of international conservation professionals",
+		"container-title": "Environmental Conservation",
+		"page": "1-9",
+		"source": "Cambridge Core",
+		"abstract": "SUMMARY\nTigers are among the most at-risk large carnivores and the South China tiger is the most threatened tiger subspecies. Reintroduction programmes are one strategy to re-establishing extirpated populations. China is committed to restoring wild South China tigers, but uncertainty remains about factors constraining these efforts. The aim of this study was to query conservation and reintroduction professionals about their attitudes and concerns and to provide guidance regarding a possible tiger reintroduction effort in South Central China. We carried out a global survey of 287 scholars and practitioners involved with wildlife reintroduction and conservation. We received responses from 68 (23.7%) respondents. More than 70% supported a potential South China tiger reintroduction effort, but many expressed concerns over planning and implementation, adherence to International Union for Conservation of Nature reintroduction guidelines and elimination of underlying threats. Respondents generally believed that China has the capacity to carry out such a programme, but may not have the experience or socio-political environment to address the issues facing human populations; 62% of respondents suggested a plausible release site should be greater than 2000 km2. To our knowledge, this is the first survey related to a potential large carnivore reintroduction programme in Asia; it has implications for future reintroduction and recovery programmes in Asia and globally.",
+		"URL": "https://www.cambridge.org/core/journals/environmental-conservation/article/assessing-factors-influencing-a-possible-south-china-tiger-reintroduction-a-survey-of-international-conservation-professionals/04AFEBE0F4F202891DE88B354310D766",
+		"DOI": "10.1017/S0376892917000182",
+		"ISSN": "0376-8929, 1469-4387",
+		"shortTitle": "Assessing factors influencing a possible South China tiger reintroduction",
+		"language": "en",
+		"author": [
+			{
+				"family": "Qin",
+				"given": "Yiyuan"
+			},
+			{
+				"family": "Nyhus",
+				"given": "Philip J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/983J7GIC",
+		"type": "article-journal",
+		"title": "State capacity and the quality of policies. Revisiting the relationship between openness and government size",
+		"container-title": "Economics & Politics",
+		"page": "133-156",
+		"volume": "29",
+		"issue": "2",
+		"source": "Wiley Online Library",
+		"abstract": "Countries with different levels of state capacity have access to different sets of policies. In particular, countries with strong state capabilities are able to draw from a broader menu of policies than countries with lower capabilities. We apply and test this insight to the case of exposure to trade-related risk. So far, most of the literature has considered that only one type of policy—the one that increases government size—can help to overcome the challenge imposed by openness. However, there are a number of policies that can mitigate trade-induced risks, many of which do not have the necessary implication of increasing public spending. Yet, many such policies require governmental capabilities not available to any country. For that reason, while the choice of a particular policy within a menu depends on political conditions, the relationship between openness and the size of government might be mediated by the capabilities of states. This paper provides reduced form evidence confirming that the empirical relationship between openness and government size is conditional on state capabilities. Therefore, public policies cannot be assessed independently of the capacity of the State that would have to implement them.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12090/abstract",
+		"DOI": "10.1111/ecpo.12090",
+		"ISSN": "1468-0343",
+		"journalAbbreviation": "Econ Polit",
+		"language": "en",
+		"author": [
+			{
+				"family": "Franco Chuaire",
+				"given": "María"
+			},
+			{
+				"family": "Scartascini",
+				"given": "Carlos"
+			},
+			{
+				"family": "Tommasi",
+				"given": "Mariano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/VT8IL8XR",
+		"type": "article-journal",
+		"title": "Aligning corporate greenhouse-gas emissions targets with climate goals",
+		"container-title": "Nature Climate Change",
+		"page": "1057",
+		"volume": "5",
+		"issue": "12",
+		"source": "www.nature.com",
+		"abstract": "<p>Corporations need to reduce their greenhouse-gas emissions to help avoid dangerous climate change. A new method for setting emissions targets, which can also be used to assess corporate climate performance and increase accountability, is proposed.</p>",
+		"URL": "https://www.nature.com/articles/nclimate2770",
+		"DOI": "10.1038/nclimate2770",
+		"ISSN": "1758-6798",
+		"language": "En",
+		"author": [
+			{
+				"family": "Krabbe",
+				"given": "Oskar"
+			},
+			{
+				"family": "Linthorst",
+				"given": "Giel"
+			},
+			{
+				"family": "Blok",
+				"given": "Kornelis"
+			},
+			{
+				"family": "Crijns-Graus",
+				"given": "Wina"
+			},
+			{
+				"family": "Vuuren",
+				"given": "Detlef P.",
+				"dropping-particle": "van"
+			},
+			{
+				"family": "Höhne",
+				"given": "Niklas"
+			},
+			{
+				"family": "Faria",
+				"given": "Pedro"
+			},
+			{
+				"family": "Aden",
+				"given": "Nate"
+			},
+			{
+				"family": "Pineda",
+				"given": "Alberto Carrillo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/Y4XGGF4J",
+		"type": "article-journal",
+		"title": "Necessary but not sufficient: the role of energy efficiency in industrial sector low-carbon transformation",
+		"container-title": "Energy Efficiency",
+		"page": "1-19",
+		"source": "rd.springer.com",
+		"abstract": "As the primary means for growth and development over the past two centuries, industry has played a central role in generating our current Anthropocene. The increasing impacts of climate change bring i",
+		"URL": "https://link.springer.com/article/10.1007/s12053-017-9570-z",
+		"DOI": "10.1007/s12053-017-9570-z",
+		"ISSN": "1570-646X, 1570-6478",
+		"shortTitle": "Necessary but not sufficient",
+		"journalAbbreviation": "Energy Efficiency",
+		"language": "en",
+		"author": [
+			{
+				"family": "Aden",
+				"given": "Nate"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/2SHBR2I8",
+		"type": "webpage",
+		"title": "Advances in Water Quality Trading as a Flexible Compliance Tool",
+		"abstract": "<SPAN style='FONT-SIZE: 11pt; FONT-FAMILY: \"Calibri\",sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: \"Times New Roman\"; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>A compilation of case histories, regulatory successes, and emerging legal case law that showcase the advances in the use of water quality trading programs and approaches as a flexible regulatory/permitting compliance tool.</SPAN>",
+		"URL": "https://www.e-wef.org/Store/ProductDetails.aspx?productId=45390843",
+		"language": "en-US",
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/WEP6A5EF",
 		"type": "article-journal",
 		"title": "Pay for Performance: Optimizing public investments in agricultural best management practices in the Chesapeake Bay Watershed",
 		"container-title": "Ecological Economics",
@@ -530,237 +1132,51 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2017",
-					6,
-					19
+					"2018",
+					1,
+					31
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/QZIMI3I2",
-		"type": "webpage",
-		"title": "Governance innovations from a multi-stakeholder coalition to implement large-scale Forest Restoration in Brazil - ScienceDirect",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S2452292916301382?via%3Dihub",
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/RG4QKPX5",
+		"id": "http://zotero.org/groups/1468459/items/84VB6T9W",
 		"type": "article-journal",
-		"title": "BECCS potential in Brazil: Achieving negative emissions in ethanol and electricity production based on sugar cane bagasse and other residues",
-		"container-title": "Applied Energy",
-		"page": "55-63",
-		"volume": "179",
-		"source": "ScienceDirect",
-		"abstract": "Stabilization at concentrations consistent with keeping global warming below 2°C above the pre-industrial level will require drastic cuts in Greenhouse Gas (GHG) emissions during the first half of the century; net negative emissions approaching 2100 are required in the vast majority of current emission scenarios. For negative emissions, the focus has been on bioenergy with carbon capture and storage (BECCS), where carbon-neutral bioenergy would be combined with additional carbon capture thus yielding emissions lower than zero. Different BECCS technologies are considered around the world and one option that deserves special attention applies CCS to ethanol production. It is currently possible to eliminate 27.7milliontonnes (Mt) of CO2 emissions per year through capture and storage of CO2 released during fermentation, which is part of sugar cane-based ethanol production in Brazil. Thus, BECCS could reduce the country’s emissions from energy production by roughly 5%. Such emissions are additional to those due to the substitution of biomass-based electricity for fossil-fueled power plants. This paper assesses the potential and cost effectiveness of negative emissions in the joint production system of ethanol and electricity based on sugar cane, bagasse, and other residues in Brazil. An important benefit is that CO2 can be captured twice along the proposed BECCS supply chain (once during fermentation and once during electricity generation). This study only considers BECCS from fermentation because capturing such CO2 is straightforward, thus potentially representing a cost-effective mitigation option for Brazil compared to other alternatives. The assessment shows that fuel prices would increase by less than 3.5% due to the adoption of BECCS from fermentation, while increasing investors’ revenues are sufficient to compensate for the investment required. With appropriate government subsidies, or by sharing BECCS costs between all car fuels and all electricity supplied by hydro and bioelectricity, the increment in ethanol and electricity prices could be less than 1% for the final consumer. Meanwhile it would supply 77.3% of all cars’ fuel (private cars) and 17.9% of all electricity in Brazil.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S0306261916308194",
-		"DOI": "10.1016/j.apenergy.2016.06.044",
-		"ISSN": "0306-2619",
-		"shortTitle": "BECCS potential in Brazil",
-		"journalAbbreviation": "Applied Energy",
+		"title": "Review of best management practice reduction efficiencies in the Lower Mississippi Alluvial Valley",
+		"container-title": "Journal of Soil and Water Conservation",
+		"page": "556-563",
+		"volume": "67",
+		"issue": "6",
+		"source": "www.jswconline.org",
+		"abstract": "Agricultural best management practices (BMPs) can help reduce nutrient and sediment concentrations and loads leaving farm fields, which in turn can reduce negative impacts on downstream aquatic systems. For nearly three decades, significant federal investment in technical and financial assistance has been provided to implement farm BMPs. Of the conservation programs, only a few attempt to estimate the amount of nutrient and sediment reduction resulting from cost-shared practices, let alone potential positive effect on local or regional water quality. The current study provides a review of the scientific literature to determine nutrient reduction efficiency percentages for BMPs in row-crop agriculture within the Lower Mississippi Alluvial Valley (LMAV), an area with high delivery of both nitrogen (N) and phosphorus (P) to the Gulf of Mexico. The review consisted of multiple agricultural and biological database searches, a BMP effectiveness tool, and outreach to scientists. Only 18 articles (9 BMPs) provided BMP efficiencies that met specific criteria of (a) row-crop agriculture, (b) clay/silt loam soils, (c) slopes of 0% to 5%, and (d) occurrence within the LMAV. Best management practices included tillage management, wetlands, winter rice field management, subsurface drainage, and vegetated drainage ditches. The majority of the nine key BMPs for the LMAV provided significant nutrient reductions ranging from 15% to 100%. For seven BMPs that had total nitrogen (TN) and total phosphorus (TP) reduction efficiencies, the range was between 17% and 76%. Given the limited availability of BMP efficiency estimates within this physiographic region, these estimates should be used with caution. Significant resources should be committed to conducting replicable studies in the LMAV to provide the most reliable estimates possible of BMP effectiveness under a wide-range of realistic cropping, hydrological, and weather conditions in order to inform program and policy development and analysis.",
+		"URL": "http://www.jswconline.org/content/67/6/556",
+		"DOI": "10.2489/jswc.67.6.556",
+		"ISSN": "0022-4561, 1941-3300",
+		"journalAbbreviation": "Journal of Soil and Water Conservation",
+		"language": "en",
 		"author": [
 			{
-				"family": "Moreira",
-				"given": "José Roberto"
+				"family": "Kröger",
+				"given": "R."
 			},
 			{
-				"family": "Romeiro",
-				"given": "Viviane"
+				"family": "Perez",
+				"given": "M."
 			},
 			{
-				"family": "Fuss",
-				"given": "Sabine"
-			},
-			{
-				"family": "Kraxner",
-				"given": "Florian"
-			},
-			{
-				"family": "Pacca",
-				"given": "Sérgio A."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					10,
-					1
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/TF5UGMKZ",
-		"type": "article-journal",
-		"title": "Economic valuation of coral reef ecosystem service of coastal protection: A pragmatic approach",
-		"container-title": "Ecosystem Services",
-		"page": "72-80",
-		"volume": "21",
-		"source": "ScienceDirect",
-		"abstract": "The identification and economic valuation of ecosystem services (ES) are becoming important components of coral reef management. In many contexts, protection of human assets against coastal floods is one of the most important ES provided by coral reefs. The methods utilized to characterize this ES should be able to accommodate situations with low data availability, without sacrificing robustness. In this paper, we suggest such an approach that utilizes expert opinion and does not require copious amounts of data. Our primary objective is to find a balance between simple and complex models that can be used in a data scarce environment, to produce an economic valuation of the coral reef ES of protection against coastal floods. The approach has three steps: (i) identify geographic zones and assets at risk, (ii) identify the contributing role of coral reefs in the protection of coasts and, (iii) value the annual repair costs of assets through the avoided damage cost approach. The proposed method seems appropriate for advocacy with policy makers, but appears to be less effective for small scale approaches, such as those required for Payment for ES negotiations or marine spatial planning.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S221204161630167X",
-		"DOI": "10.1016/j.ecoser.2016.07.005",
-		"ISSN": "2212-0416",
-		"shortTitle": "Economic valuation of coral reef ecosystem service of coastal protection",
-		"journalAbbreviation": "Ecosystem Services",
-		"author": [
-			{
-				"family": "Pascal",
-				"given": "Nicolas"
-			},
-			{
-				"family": "Allenbach",
-				"given": "Michel"
-			},
-			{
-				"family": "Brathwaite",
-				"given": "Angelique"
-			},
-			{
-				"family": "Burke",
-				"given": "Lauretta"
-			},
-			{
-				"family": "Le Port",
-				"given": "Guillaume"
-			},
-			{
-				"family": "Clua",
-				"given": "Eric"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					10,
-					1
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/VG4PZDHK",
-		"type": "article-journal",
-		"title": "Modeling the Processing and Transportation Logistics of Forest Residues Using Life Cycle Assessment",
-		"container-title": "Journal of Forestry",
-		"page": "86-94",
-		"volume": "115",
-		"issue": "2",
-		"source": "IngentaConnect",
-		"abstract": "This study investigates the environmental burdens of three logistics system scenarios for residue processing and transportation under different road type distributions using life cycle assessment (LCA). The three scenarios are as follows: bin truck with stationary grinder at centralized landing (base case); bundler with electric grinder; and mobile chipper at slash piles. The total distance between the forest site and the bioenergy facility is set at 50 miles one way. The functional unit is 1 bone-dry ton (BDT) of residues transported from the forest site to the bioenergy facility. Results indicate that the mobile chipper system posts the lowest global warming impact under all types of road distributions (38.2‐41.4 kg CO2 eq [84.2‐91.3 lb CO2 eq]), whereas the base case shows the most rapid reduction in global warming impact as highway distance increases (43.8‐56.9 kg CO2 eq [96.6‐125.4 lb CO2 eq]). Potential impacts from acidification, eutrophication, and smog indicate reduction as highway distance increases. Along these LCA metrics, road conditions play an important role in determining the most efficient residue collection system. As the residue piles are located further from paved highway, the bundler and the mobile chipper systems present greater environmental advantages. Management and Policy Implications Uncertainty in the role of bioenergy for offsetting greenhouse gas (GHG) emissions has prevented wide adoption of bioenergy in the United States. Because of variations in forest site conditions across the country, understanding the environmental impacts of the logistics of forest residue transportation is an important step in maximizing the benefits and use potential of bioenergy. Currently, few studies provide a basis for enhancing management techniques during the processing of forest residues. The actual impact of the logistic scenarios described in this study depend on forest sites, because the location of slash piles may vary based on the geographic features of forest sites and logging activities. Road distances and conditions are taken into account, so forest owners/managers and policymakers would have the option of choosing the best system scenarios based on the distribution of slash piles and the road conditions of particular forest sites. The findings of this study clearly show that the environmental impact associated with the System 1 in-woods residue handling and processing decreases when the proportion of paved highway increases. The location of residual biomass in terms of the existing road conditions would justify the need for an alternate in-woods biomass processing system, such as System 2 or 3. The findings of this study may be applied to a variety of privately or publicly owned forestlands and can apply to a wide audience, including forest managers, logging companies, researchers, and alternative energy production companies. More importantly, this research can be used as a valuable reference for policymakers to improve the requirements and guidelines for managing forest slash piles and in-forest road developments.",
-		"DOI": "10.5849/jof.2016-027",
-		"journalAbbreviation": "Journal of Forestry",
-		"author": [
-			{
-				"family": "Chen",
-				"given": "Cindy X."
-			},
-			{
-				"family": "Pierobon",
-				"given": "Francesca"
-			},
-			{
-				"family": "Zamora-Cristales",
-				"given": "Rene"
-			},
-			{
-				"family": "Ganguly",
-				"given": "Indroneil"
-			},
-			{
-				"family": "Sessions",
-				"given": "John"
-			},
-			{
-				"family": "Eastin",
-				"given": "Ivan"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					3,
-					1
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/VKSISDB2",
-		"type": "webpage",
-		"title": "Integrated Investment Portfolio | Water & Wastes Digest",
-		"URL": "https://www.wwdmag.com/green-technology/integrated-investment-portfolio",
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/VTXQMQMX",
-		"type": "article-journal",
-		"title": "Nadi Bachao Samriddhi Lao – A forest landscape restoration initiative in Harda district, Madhya Pradesh, India",
-		"container-title": "World Development Perspectives",
-		"page": "1-4",
-		"volume": "4",
-		"source": "ScienceDirect",
-		"abstract": "One of the key challenges in forest landscape restoration (FLR) is achieving synergistic collaboration among major stakeholders. This paper analyses an innovative governance structure that brought together farmers, government agencies, civil society groups, and the private sector to plant over 2.4million trees to stabilise riverbanks in the Harda district of Madhya Pradesh, India. The governance structure facilitated the convergence of interests of different stakeholders, thereby ensuring adequate physical, financial, and human resources for FLR. This paper reiterates the role of responsive institutional and governance structures necessary for successful FLR interventions and identifies important lessons for achieving scale.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S2452292916301461",
-		"DOI": "10.1016/j.wdp.2016.11.016",
-		"ISSN": "2452-2929",
-		"journalAbbreviation": "World Development Perspectives",
-		"author": [
-			{
-				"family": "Saigal",
+				"family": "Walker",
 				"given": "S."
 			},
 			{
-				"family": "Kumar",
-				"given": "C."
-			},
-			{
-				"family": "Chaturvedi",
-				"given": "R."
+				"family": "Sharpley",
+				"given": "A."
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2016",
-					12,
+					"2012",
+					11,
 					1
 				]
 			]
@@ -768,9 +1184,890 @@
 		"accessed": {
 			"date-parts": [
 				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/WUYMFKKB",
+		"type": "article-journal",
+		"title": "Evaluating the impacts of the clean cities program",
+		"container-title": "Science of The Total Environment",
+		"page": "254-262",
+		"volume": "579",
+		"source": "ScienceDirect",
+		"abstract": "The Department of Energy's Clean Cities program was created in 1993 to reduce petroleum usage in the transportation sector. The program promotes alternative fuels such as biofuels and fuel-saving strategies such as idle reduction and fleet management through coalitions of local government, non-profit, and private actors. Few studies have evaluated the impact of the program because of its complexity that include interrelated strategies of grants, education and training and diversity of participants. This paper uses a Difference-in-Differences (DiD) approach to evaluate the effectiveness of the program between 1990 and 2010. We quantify the effectiveness of the Clean Cities program by focusing on performance measures such as air quality, number of alternative fueling stations, private vehicle occupancy and transit ridership. We find that counties that participate in the program perform better on all these measures compared to counties that did not participate. Compared to the control group, counties in the Clean Cities program experienced a reduction in days with bad air quality (3.7%), a decrease in automobile commuters (2.9%), an overall increase in transit commuters (2.1%) and had greater numbers of new alternative fueling stations (12.9). The results suggest that the program is a qualified success.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0048969716325736",
+		"DOI": "10.1016/j.scitotenv.2016.11.119",
+		"ISSN": "0048-9697",
+		"journalAbbreviation": "Science of The Total Environment",
+		"author": [
+			{
+				"family": "Qiu",
+				"given": "Shiyong"
+			},
+			{
+				"family": "Kaza",
+				"given": "Nikhil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
 					"2017",
-					6,
-					19
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/DJELPNYA",
+		"type": "book",
+		"title": "Steering the Metropolis: Metropolitan Governance for Sustainable Urban Development",
+		"publisher": "Inter-American Development Bank",
+		"source": "publications.iadb.org",
+		"abstract": "A distinctive feature of urbanization in the last 50 years is the expansion of urban populations and built development well beyond what was earlier conceived as the city limit, resulting in metropolitan areas. This is challenging the relevance of traditional municipal boundaries, and by extension, traditional governing structures and institutions. \"Steering the Metropolis: Metropolitan Governance for Sustainable Urban Development,” encompasses the reflections of thought and practice leaders on the underlying premises for governing metropolitan space, sectoral adaptations of those premises, and dynamic applications in a wide variety of contexts. Those reflections are structured into three sections. Section 1 discusses the conceptual underpinnings of metropolitan governance, analyzing why political, technical, and administrative arrangements at this level of government are needed. Section 2 deepens the discussion by addressing specific sectoral themes of mobility, land use planning, environmental management, and economic production, as well as crosscutting topics of metropolitan governance finance, and monitoring and evaluation. Section 3 tests the concepts and their sectoral adaptations against the practice, with cases from Africa, America, Asia, and Europe.",
+		"URL": "http://publications.iadb.org/handle/11319/8596",
+		"ISBN": "978-1-59782-311-1",
+		"note": "DOI: 10.18235/0000875",
+		"shortTitle": "Steering the Metropolis",
+		"language": "English",
+		"author": [
+			{
+				"family": "Bank (IDB)",
+				"given": "Inter-American Development"
+			},
+			{
+				"family": "Programme (UN-Habitat)",
+				"given": "United Nations Human Settlements"
+			},
+			{
+				"family": "America (CAF)",
+				"given": "Development Bank of Latin"
+			},
+			{
+				"family": "Desarrollo (BID)",
+				"given": "Banco Interamericano",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Humanos (ONU-Hábitat)",
+				"given": "Programa de las Naciones Unidas para los Asentamientos"
+			},
+			{
+				"family": "America (CAF)",
+				"given": "Development Bank of Latin"
+			},
+			{
+				"family": "Desarrollo (BID)",
+				"given": "Banco Interamericano",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Humanos (ONU-Hábitat)",
+				"given": "Programa de las Naciones Unidas para los Asentamientos"
+			},
+			{
+				"family": "Latina (CAF)",
+				"given": "Banco de Desenvolvimento do América"
+			},
+			{
+				"family": "Desenvolvimento (BID)",
+				"given": "Banco Interamericano",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Humanos (ONU-Habitat)",
+				"given": "Programa das Nações Unidas para os Assentamentos"
+			},
+			{
+				"family": "Latina (CAF)",
+				"given": "Banco de Desenvolvimento da América"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/MLMYEZIS",
+		"type": "article-journal",
+		"title": "Climate Change and the UN Security Council: Bully Pulpit or Bull in a China Shop?",
+		"container-title": "Global Environmental Politics",
+		"page": "1-20",
+		"volume": "17",
+		"issue": "2",
+		"source": "mitpressjournals.org (Atypon)",
+		"abstract": "Although claims about climate/conflict links remain contested, concerns that climate change will affect peace and security have gained traction in academic, activist, and policy circles. One set of pressures for responsive action has centered on the UN Security Council, which has held several often-contentious debates on the topic. Whether the Council should address climate change is a highly politicized question, tied to controversies about the Council’s mandate, membership reform, and the appropriate division of labor in the UN system. Lost in this political debate has been a more fundamental question—what exactly could the Council do? We examine six specific proposals for Council action culled from the academic and policy literature and the public positions of member states. These include incorporating climate risks into peacekeeping operations, developing an early-warning system, managing the threat to small-island states, engaging in preventive diplomacy, addressing climate refugees, and embracing a climate-related analogy to the norm of a responsibility to protect. For each proposal, our analysis—which is based on interviews conducted at the UN, archival research, and case histories of past instances of adapting the Council’s focus to new challenges—examines what it would mean and require for the Council to act. We also identify a series of measures that constitute a “pragmatic transformative” agenda. These steps recognize the poor fit between the climate challenge and the Council as it is currently constituted, but also the potential to use climate as part of a larger transformation toward the better Council the world needs.",
+		"URL": "https://www.mitpressjournals.org/doi/10.1162/GLEP_a_00398",
+		"DOI": "10.1162/GLEP_a_00398",
+		"ISSN": "1526-3800",
+		"shortTitle": "Climate Change and the UN Security Council",
+		"journalAbbreviation": "Global Environmental Politics",
+		"author": [
+			{
+				"family": "Conca",
+				"given": "Ken"
+			},
+			{
+				"family": "Thwaites",
+				"given": "Joe"
+			},
+			{
+				"family": "Lee",
+				"given": "Goueun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/IVQJT985",
+		"type": "article-journal",
+		"title": "Valuing climate change impacts on European forest ecosystems",
+		"container-title": "Ecosystem Services",
+		"page": "141-153",
+		"volume": "18",
+		"source": "ScienceDirect",
+		"abstract": "This paper presents one of the first attempts to perform a systematic assessment of the climate change impacts on European forests and its capacity to deliver ecosystem services by developing a hybrid economic valuation model. Different methods are combined to assess climate change impacts on forests by different latitudes, productivity in bio-physical terms and related economic consequences. Our computation shows that countries within the Mediterranean European geo-climatic zone will benefit from the highest welfare gain in moving towards an environmentally oriented scenario. The welfare gain has been estimated around 86% increase in the cultural values, 45% increase in the value of carbon sequestration and 24% increase in the values of wood forest products. The other countries show an intermediate state of affairs with mixed results. On the other hand, high welfare losses are always expected when moving to the more economically oriented scenarios, with the highest impacts among the Northern European countries. Results show that all storylines describe significant impacts on human wellbeing. These economic magnitudes contribute to a better understanding of the potential welfare loss across different regions and therefore will have important policy implications, such as developing the ecosystem-base adaption measures for Europe to cope with climate change.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2212041616300614",
+		"DOI": "10.1016/j.ecoser.2016.02.039",
+		"ISSN": "2212-0416",
+		"journalAbbreviation": "Ecosystem Services",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Chiabai",
+				"given": "Aline"
+			},
+			{
+				"family": "Silvestri",
+				"given": "Silvia"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A. L. D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/598XJPR9",
+		"type": "article-journal",
+		"title": "Modeling the links between biodiversity, ecosystem services and human wellbeing in the context of climate change: Results from an econometric analysis of the European forest ecosystems",
+		"container-title": "Ecological Economics",
+		"page": "60-73",
+		"volume": "97",
+		"source": "ScienceDirect",
+		"abstract": "This paper constitutes a first attempt to model the relationship between climate change, biodiversity, and ecosystem services, with a specific emphasis on European forests. Firstly, we construct a composite biodiversity indicator that integrates quantitative and qualitative changes of biodiversity projected to 2050 for the EU-17 under future IPCC scenarios. Secondly, this indicator is integrated into two simultaneous equation models to capture the marginal impacts of changes in biodiversity on the value of ecosystem goods and services (EGS) due to climate change. Our estimation results confirm the role of biodiversity as a nature-based policy solution for climate change mitigation, shedding light on the policy actions that generate co-benefits by enhancing ecosystems' capacity to mitigate climate change impacts, while conserving biodiversity and sustaining the flows of EGS for human livelihoods. Especially, nature-based mitigation policies are more cost-effective and better at coping with the ethic and inequality issues associated with distributional impacts of the policy actions, compared to the pure technical solutions to improving energy efficiency and reducing emissions. However, the strength of biodiversity as a nature-based policy option for climate change mitigation depends on both the nature of the EGS and the geographical area under consideration.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0921800913003339",
+		"DOI": "10.1016/j.ecolecon.2013.11.004",
+		"ISSN": "0921-8009",
+		"shortTitle": "Modeling the links between biodiversity, ecosystem services and human wellbeing in the context of climate change",
+		"journalAbbreviation": "Ecological Economics",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A. L. D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/9XMAPHFN",
+		"type": "article-journal",
+		"title": "The social dimension of biodiversity policy in the European Union: Valuing the benefits to vulnerable communities",
+		"container-title": "Environmental Science & Policy",
+		"page": "196-208",
+		"volume": "33",
+		"source": "ScienceDirect",
+		"abstract": "This paper uses GIS-based mapping tools and economic valuation of ecosystem goods and services to explore the social dimension of biodiversity policy. We investigate the linkages between biodiversity, ecosystem service values, and socio-economic vulnerability indicators in a spatially explicit framework and at different geographic scales. Our focus is on Europe, where biodiversity and ecosystem benefits have been well studied for many ecosystems, such as forests, coastal ecosystems and freshwater wetlands. The analysis focuses in particular on rural agricultural areas and remote mountainous regions accounting for the differences across various income groups, both at national and regional levels. The results of the study provide useful insights for EU policymakers in designing policy instruments that can promote biodiversity conservation and prevent natural resource degradation, on the one hand, while contributing to social stability and human livelihoods, on the other hand.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1462901113001317",
+		"DOI": "10.1016/j.envsci.2013.06.004",
+		"ISSN": "1462-9011",
+		"shortTitle": "The social dimension of biodiversity policy in the European Union",
+		"journalAbbreviation": "Environmental Science & Policy",
+		"author": [
+			{
+				"family": "Ghermandi",
+				"given": "Andrea"
+			},
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A. L. D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/B5WJ9ANI",
+		"type": "article-journal",
+		"title": "The economic assessment of changes in ecosystem services: and application of the CGE methodology",
+		"container-title": "Economia Agraria y Recursos Naturales",
+		"volume": "11",
+		"issue": "1",
+		"source": "ageconsearch.umn.edu",
+		"abstract": "The present study integrates Computable General Equilibrium (CGE) modelling with biodiversity services, proposing a possible methodology for assessing climate-change impacts on ecosystems. The assessment focuses on climate change impacts on carbon sequestration services provided by European forest, cropland and grassland ecosystems and on provisioning services, but provided by forest and cropland ecosystems only. To do this via a CGE model it is necessary to identify first the role that these ecosystem services play in marketable transactions; then how climate change can impact these services; and finally how the economic system reacts to those changes by adjusting demand and supply across sectors, domestically and internationally Bosello, Francesco; Eboli, Fabio; Parrado, Ramiro; Nunes, Paulo A.L.D.; Ding, Helen; Rosa, Renato",
+		"URL": "http://ageconsearch.umn.edu/record/117622",
+		"shortTitle": "The economic assessment of changes in ecosystem services",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bosello",
+				"given": "Francesco"
+			},
+			{
+				"family": "Eboli",
+				"given": "Fabio"
+			},
+			{
+				"family": "Parrado",
+				"given": "Ramiro"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A. L. D."
+			},
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Rosa",
+				"given": "Renato"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/TWREZ5EX",
+		"type": "article-journal",
+		"title": "Economic Assessment of Forest Ecosystem Services Losses: Cost of Policy Inaction",
+		"container-title": "Environmental and Resource Economics",
+		"page": "405-445",
+		"volume": "50",
+		"issue": "3",
+		"source": "rd.springer.com",
+		"abstract": "This paper presents a bottom-up methodological framework for estimating some of the key ecosystem services provided by forests biomes worldwide. We consider the provision of wood and non-wood forest p",
+		"URL": "https://link.springer.com/article/10.1007/s10640-011-9478-6",
+		"DOI": "10.1007/s10640-011-9478-6",
+		"ISSN": "0924-6460, 1573-1502",
+		"shortTitle": "Economic Assessment of Forest Ecosystem Services Losses",
+		"journalAbbreviation": "Environ Resource Econ",
+		"language": "en",
+		"author": [
+			{
+				"family": "Chiabai",
+				"given": "Aline"
+			},
+			{
+				"family": "Travisi",
+				"given": "Chiara M."
+			},
+			{
+				"family": "Markandya",
+				"given": "Anil"
+			},
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Nunes",
+				"given": "Paulo A. L. D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					11,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/UNNDDA5P",
+		"type": "webpage",
+		"title": "Valuation of Regulating Services of Ecosystems | Methodology and Applications | Taylor & Francis Group",
+		"URL": "https://www.taylorfrancis.com/books/e/9781136942457",
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/XPB8YJ8D",
+		"type": "article-journal",
+		"title": "Get the science right when paying for nature's services",
+		"container-title": "Science",
+		"page": "1206-1207",
+		"volume": "347",
+		"issue": "6227",
+		"source": "science.sciencemag.org",
+		"abstract": "Payments for Ecosystem Services (PES) mechanisms leverage economic and social incentives to shape how people influence natural processes and achieve conservation and sustainability goals. Beneficiaries of nature's goods and services pay owners or stewards of ecosystems that produce those services, with payments contingent on service provision (1, 2). Integrating scientific knowledge and methods into PES is critical (3, 4). Yet many projects are based on weak scientific foundations, and effectiveness is rarely evaluated with the rigor necessary for scaling up and understanding the importance of these approaches as policy instruments and conservation tools (2, 5, 6). Part of the problem is the lack of simple, yet rigorous, scientific principles and guidelines to accommodate PES design and guide research and analyses that foster evaluations of effectiveness (4). As scientists and practitioners from government, nongovernment, academic, and finance institutions, we propose a set of such guidelines and principles.\nFew projects adequately address design and evaluation\nFew projects adequately address design and evaluation",
+		"URL": "http://science.sciencemag.org/content/347/6227/1206",
+		"DOI": "10.1126/science.aaa1403",
+		"ISSN": "0036-8075, 1095-9203",
+		"note": "PMID: 25766222",
+		"language": "en",
+		"author": [
+			{
+				"family": "Naeem",
+				"given": "S."
+			},
+			{
+				"family": "Ingram",
+				"given": "J. C."
+			},
+			{
+				"family": "Varga",
+				"given": "A."
+			},
+			{
+				"family": "Agardy",
+				"given": "T."
+			},
+			{
+				"family": "Barten",
+				"given": "P."
+			},
+			{
+				"family": "Bennett",
+				"given": "G."
+			},
+			{
+				"family": "Bloomgarden",
+				"given": "E."
+			},
+			{
+				"family": "Bremer",
+				"given": "L. L."
+			},
+			{
+				"family": "Burkill",
+				"given": "P."
+			},
+			{
+				"family": "Cattau",
+				"given": "M."
+			},
+			{
+				"family": "Ching",
+				"given": "C."
+			},
+			{
+				"family": "Colby",
+				"given": "M."
+			},
+			{
+				"family": "Cook",
+				"given": "D. C."
+			},
+			{
+				"family": "Costanza",
+				"given": "R."
+			},
+			{
+				"family": "DeClerck",
+				"given": "F."
+			},
+			{
+				"family": "Freund",
+				"given": "C."
+			},
+			{
+				"family": "Gartner",
+				"given": "T."
+			},
+			{
+				"family": "Goldman-Benner",
+				"given": "R."
+			},
+			{
+				"family": "Gunderson",
+				"given": "J."
+			},
+			{
+				"family": "Jarrett",
+				"given": "D."
+			},
+			{
+				"family": "Kinzig",
+				"given": "A. P."
+			},
+			{
+				"family": "Kiss",
+				"given": "A."
+			},
+			{
+				"family": "Koontz",
+				"given": "A."
+			},
+			{
+				"family": "Kumar",
+				"given": "P."
+			},
+			{
+				"family": "Lasky",
+				"given": "J. R."
+			},
+			{
+				"family": "Masozera",
+				"given": "M."
+			},
+			{
+				"family": "Meyers",
+				"given": "D."
+			},
+			{
+				"family": "Milano",
+				"given": "F."
+			},
+			{
+				"family": "Naughton-Treves",
+				"given": "L."
+			},
+			{
+				"family": "Nichols",
+				"given": "E."
+			},
+			{
+				"family": "Olander",
+				"given": "L."
+			},
+			{
+				"family": "Olmsted",
+				"given": "P."
+			},
+			{
+				"family": "Perge",
+				"given": "E."
+			},
+			{
+				"family": "Perrings",
+				"given": "C."
+			},
+			{
+				"family": "Polasky",
+				"given": "S."
+			},
+			{
+				"family": "Potent",
+				"given": "J."
+			},
+			{
+				"family": "Prager",
+				"given": "C."
+			},
+			{
+				"family": "Quétier",
+				"given": "F."
+			},
+			{
+				"family": "Redford",
+				"given": "K."
+			},
+			{
+				"family": "Saterson",
+				"given": "K."
+			},
+			{
+				"family": "Thoumi",
+				"given": "G."
+			},
+			{
+				"family": "Vargas",
+				"given": "M. T."
+			},
+			{
+				"family": "Vickerman",
+				"given": "S."
+			},
+			{
+				"family": "Weisser",
+				"given": "W."
+			},
+			{
+				"family": "Wilkie",
+				"given": "D."
+			},
+			{
+				"family": "Wunder",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/H26UMMX8",
+		"type": "chapter",
+		"title": "Accounting for ecosystem services in business",
+		"container-title": "Routledge Handbook of Ecosystem Services",
+		"publisher": "Routledge",
+		"publisher-place": "London",
+		"event-place": "London",
+		"ISBN": "978-1-138-02508-0",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			}
+		],
+		"editor": [
+			{
+				"family": "Postchin",
+				"given": "Marion"
+			},
+			{
+				"family": "Haines-Yong",
+				"given": "Roy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/HL9BFP8F",
+		"type": "chapter",
+		"title": "Cost–benefit analysis of alternative land-use scenarios: A sustainability study for the Volcanic Central Talamanca Biological Corridor",
+		"container-title": "Climate Change Impacts on Tropical Forests in Central America: An Ecosystem Service Perspective",
+		"collection-title": "The Earthscan Forest Library",
+		"publisher-place": "London",
+		"page": "152-177",
+		"event-place": "London",
+		"ISBN": "978-0-415-72080-9",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Chiabai",
+				"given": "Aline"
+			}
+		],
+		"editor": [
+			{
+				"family": "Chiabai",
+				"given": "Aline"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/LTUHZVFG",
+		"type": "chapter",
+		"title": "European Forests and Carbon Sequestration Services: An Economic Assessment of Climate Change Impacts",
+		"container-title": "Valuation of Regulating Services of Ecosystems: Methodology and Applications",
+		"publisher": "Routledge",
+		"publisher-place": "London",
+		"event-place": "London",
+		"ISBN": "978-0-415-56987-3",
+		"author": [
+			{
+				"family": "Ding",
+				"given": "Helen"
+			},
+			{
+				"family": "Teelucksingh",
+				"given": "s"
+			},
+			{
+				"family": "Pushpam",
+				"given": "Kumar"
+			},
+			{
+				"family": "Woods",
+				"given": "Michael D"
+			}
+		],
+		"issued": {
+			"literal": "20103"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/2BEN49N5",
+		"type": "chapter",
+		"title": "Assessing corridor performance",
+		"container-title": "Restructuring Public Transport through Bus Rapid Transit : An International and Interdisciplinary Perspective",
+		"publisher": "Pollicy Press",
+		"publisher-place": "Chicago",
+		"page": "299-316",
+		"event-place": "Chicago",
+		"ISBN": "978-1-4473-2616-8",
+		"author": [
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			},
+			{
+				"family": "Herrera",
+				"given": "Juan Carlos"
+			}
+		],
+		"editor": [
+			{
+				"family": "Munoz",
+				"given": "Juan Carlos"
+			},
+			{
+				"family": "Paget-Seekins",
+				"given": "Laurel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/BIXXVBUZ",
+		"type": "chapter",
+		"title": "Global overview of BRT and bus corridors",
+		"container-title": "Restructuring public transport through bus rapid transit : an international and interdisciplinary perspective",
+		"publisher": "Pollicy Press",
+		"publisher-place": "Chicago",
+		"page": "15-28",
+		"event-place": "Chicago",
+		"ISBN": "978-1-4473-2616-8",
+		"author": [
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			},
+			{
+				"family": "Silva,",
+				"given": "C. A. M"
+			}
+		],
+		"editor": [
+			{
+				"family": "Munoz",
+				"given": "Juan Carlos"
+			},
+			{
+				"family": "Paget-Seekins",
+				"given": "Laurel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/223HCF9D",
+		"type": "chapter",
+		"title": "Road safety impacts of BRT and busway features",
+		"container-title": "Restructuring public transport through bus rapid transit : an international and interdisciplinary perspective",
+		"publisher": "Policy Press",
+		"publisher-place": "Chicago",
+		"page": "355-368",
+		"event-place": "Chicago",
+		"ISBN": "978-1-4473-2616-8",
+		"author": [
+			{
+				"family": "Lindau",
+				"given": "Luis Antonio"
+			},
+			{
+				"family": "Duduta",
+				"given": "Nicolae"
+			}
+		],
+		"editor": [
+			{
+				"family": "Munoz",
+				"given": "Juan Carlos"
+			},
+			{
+				"family": "Paget-Seekins",
+				"given": "Laurel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/KAHVSDU3",
+		"type": "webpage",
+		"title": "State capacity and the quality of policies. Revisiting the relationship between openness and government size - Franco Chuaire - 2017 - Economics & Politics - Wiley Online Library",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1111/ecpo.12090/abstract?systemMessage=Please+be+advised+that+we+experienced+an+unexpected+issue+that+occurred+on+Saturday+and+Sunday+January+20th+and+21st+that+caused+the+site+to+be+down+for+an+extended+period+of+time+and+affected+the+ability+of+users+to+access+content+on+Wiley+Online+Library.+This+issue+has+now+been+fully+resolved.++We+apologize+for+any+inconvenience+this+may+have+caused+and+are+working+to+ensure+that+we+can+alert+you+immediately+of+any+unplanned+periods+of+downtime+or+disruption+in+the+future.",
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					31
 				]
 			]
 		}
