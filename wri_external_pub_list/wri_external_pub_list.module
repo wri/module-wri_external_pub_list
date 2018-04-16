@@ -70,6 +70,7 @@ function grabTitles() {
 
   $pubTitle = $theVarLast[0];
 
+  //for debugging, set to True
   $forceMatchMessage = False;
 
   if ($authMatch == 'yes' && $b[$pubTitle]['title'] != '') {
