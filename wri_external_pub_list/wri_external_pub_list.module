@@ -1,47 +1,18 @@
 <?php
 
-$message3 = getLast();
+function getName($which) {
 
-// drupal_set_message(t($message3), 'status');
+  $pageAlias = drupal_get_path_alias();
+  $pieces1 = explode("/", $pageAlias);
+  $pieces2 = explode("-", $pieces1[1]);
 
-
-function array_find_deep($array, $search, $keys = array()) {
-
-  foreach($array as $key => $value) {
-    if (is_array($value)) {
-      $sub = array_find_deep($value, $search, array_merge($keys, array($key)));
-      if (count($sub)) {
-      return $sub;
-      }
-    } 
-    elseif ($value === $search) { 
-      return array_merge($keys, array($key));
-    }
+  if ($which == 'last') {
+    return ucfirst($pieces2[1]);
   }
-
-  return array();
-}
-
-function getLast() {
-
-  $pageAlias = drupal_get_path_alias();
-  $pieces1 = explode("/", $pageAlias);
-  $pieces2 = explode("-", $pieces1[1]);
-
-  return ucfirst($pieces2[1]);
-  //return "Waite";  
-
-}
-
-function getFirst() {
-
-  $pageAlias = drupal_get_path_alias();
-  $pieces1 = explode("/", $pageAlias);
-  $pieces2 = explode("-", $pieces1[1]);
-
-  return ucfirst($pieces2[0]);
-  //return "Richard";
-
+  elseif ($which == 'first') {
+    return ucfirst($pieces2[0]);
+  }
+  
 }
 
 function grabTitles() {
@@ -50,45 +21,31 @@ function grabTitles() {
 
   $pubList = file_get_contents($pubListSrc);
 
-  $itemArray = json_decode($pubList, true);
+  $pubListArray = json_decode($pubList, true);
 
-  $b = $itemArray;
+  $authLast = getName('last');
+  $authFirst = getName('first');
 
-  $authLast = getLast();
-  $authFirst = getFirst();
-  $theVarLast = array_find_deep($b, $authLast);
-  $theVarFirst = array_find_deep($b, $authFirst);
+  foreach($pubListArray as $key => $publication_entry) {
+    if ($publication_entry['author']) {
+      foreach ($publication_entry['author'] as $author) {
+        $first_name = $author['given'];
+	$last_name = $author['family'];
+        if ($first_name == $authFirst && $last_name == $authLast) {
+          $author_publications_array[] = "<p>" . $authLast . ", " . $authFirst . ". \"" . $publication_entry['title'] . ".\" <em>" . $publication_entry['container-title'] . "</em> " . $publication_entry['volume'] . " (" . $publication_entry['issued']['date-parts'][0][0] . "): " . $publication_entry['page'] . ". doi:" . $publication_entry['DOI'] . ".</p>";
+	}
+      }
+    }
+  }
 
-  if ($theVarLast[0] === $theVarFirst[0] && $theVarLast[1] === $theVarFirst[1] && $theVarLast[2] === $theVarFirst[2]) {
-    $authMatch = 'yes';
+  if ($author_publications_array) {
+    $matches = implode('', $author_publications_array);
   }
   else {
-    $authMatch = 'nope';
+    $matches = "<p>No external publications listed for: " . $authFirst . " " . $authLast . "</p><style>.pane-wri-external-pub-list-external-publications { display: none !important; } #content .nav--tabs .nav-item:last-child { display: none !important; }</style>";
   }
-
-  //echo "<p>Are the names from the same element? = " . $authMatch . "</p>";
-
-  $pubTitle = $theVarLast[0];
-
-  //for debugging, set to True
-  $forceMatchMessage = False;
-
-  if ($authMatch == 'yes' && $b[$pubTitle]['title'] != '') {
-    $blockContent = "<p>" . $authLast . ", " . $authFirst . ". \"" . $b[$pubTitle]['title'] . ".\" <em>" . $b[$pubTitle]['container-title'] . "</em> " . $b[$pubTitle]['volume'] . " (" . $b[$pubTitle]['issued']['date-parts'][0][0]  . "): " . $b[$pubTitle]['page'] . ". doi:" . $b[$pubTitle]['DOI'] . ".</p>";
-  }
-  elseif ($forceMatchMessage) {
-    $blockContent = "<h1>no match: " . $authFirst . " " . $authLast . "</h1";
-  }
-  else {
-    $blockContent = "<h1>no match: " . $authFirst . " " . $authLast . "</h1>
-    <style>
-      .pane-wri-external-pub-list-external-publications { display: none !important; }
-      #content .nav--tabs .nav-item:last-child { display: none !important; }
-    </style>
-    ";
-  }
-
-  return $blockContent;
+    
+  return $matches;
 
 }
 
@@ -104,7 +61,6 @@ function wri_external_pub_list_block_info() {
   $blocks = array();
   $blocks['external_publications'] = array(
     'info' => t('External Publications'),
-    //'cache' => DRUPAL_CACHE_PER_ROLE,
   );
 
   return $blocks;
@@ -116,8 +72,6 @@ function wri_external_pub_list_block_info() {
 
 function wri_external_pub_list_block_view($delta = '') {
   $block = array();
-
-  //$content = "external author test pub title";
 
   switch ($delta) {
     case 'external_publications':
