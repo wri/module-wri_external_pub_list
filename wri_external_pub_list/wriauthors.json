@@ -94,57 +94,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/QTQD4QGI",
-		"type": "article-journal",
-		"title": "Pay for Performance: Optimizing public investments in agricultural best management practices in the Chesapeake Bay Watershed",
-		"container-title": "Ecological Economics",
-		"page": "252-261",
-		"volume": "118",
-		"source": "ScienceDirect",
-		"abstract": "Agricultural best management practices (BMPs) such as streamside buffer zones and cover crops are increasingly being used to reduce nutrient pollution into water bodies. Eutrophication from fertilizer runoff is the key driver behind growth of hypoxic “dead zones” where fish production comes to a standstill. Governments heavily subsidize BMPs, but do not generally allocate funds to maximize their environmental benefits. But with ever-increasing fiscal constraints, policy makers are searching for ways to enhance efficiency of BMP programs. Pay for performance presents an alternative platform based on nutrient reduction achieved. This paper compares a conventional subsidy approach with pay for performance for BMPs designed to reduce nutrient pollution into the Chesapeake Bay. We model four paired scenarios using a constrained optimization model. In the first pairing we held the level of nutrient reduction constant and compared cost effectiveness of the two subsidy allocation methods. In the second pairing we held the level of program investment constant and compared nutrient reduction outcomes. In both pairings, pay for performance was far superior — delivering identical nutrient reduction outcomes at less than half the cost in the first and delivering two to three times the amount of nutrient reduction for the same budget allocation in the second.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S0921800915003365",
-		"DOI": "10.1016/j.ecolecon.2015.07.033",
-		"ISSN": "0921-8009",
-		"shortTitle": "Pay for Performance",
-		"journalAbbreviation": "Ecological Economics",
-		"author": [
-			{
-				"family": "Talberth",
-				"given": "John"
-			},
-			{
-				"family": "Selman",
-				"given": "Mindy"
-			},
-			{
-				"family": "Walker",
-				"given": "Sara"
-			},
-			{
-				"family": "Gray",
-				"given": "Erin"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2015",
-					10,
-					1
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					6,
-					19
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/1468459/items/AKESVUQF",
 		"type": "article-journal",
 		"title": "Use of coastal economic valuation in decision making in the Caribbean: Enabling conditions and lessons learned",
@@ -284,51 +233,6 @@
 				[
 					"2016",
 					12,
-					1
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					1,
-					31
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/F3JKM9W4",
-		"type": "article-journal",
-		"title": "Conservation Beyond Park Boundaries: The Impact of Buffer Zones on Deforestation and Mining Concessions in the Peruvian Amazon",
-		"container-title": "Environmental Management",
-		"page": "297-311",
-		"volume": "58",
-		"issue": "2",
-		"source": "rd.springer.com",
-		"abstract": "Many researchers have tested whether protected areas save tropical forest, but generally focus on parks and reserves, management units that have internationally recognized standing and clear objective",
-		"URL": "https://link.springer.com/article/10.1007/s00267-016-0709-z",
-		"DOI": "10.1007/s00267-016-0709-z",
-		"ISSN": "0364-152X, 1432-1009",
-		"shortTitle": "Conservation Beyond Park Boundaries",
-		"journalAbbreviation": "Environmental Management",
-		"language": "en",
-		"author": [
-			{
-				"family": "Weisse",
-				"given": "Mikaela J."
-			},
-			{
-				"family": "Naughton-Treves",
-				"given": "Lisa C."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					8,
 					1
 				]
 			]
@@ -1318,104 +1222,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/1468459/items/MLMYEZIS",
-		"type": "article-journal",
-		"title": "Climate Change and the UN Security Council: Bully Pulpit or Bull in a China Shop?",
-		"container-title": "Global Environmental Politics",
-		"page": "1-20",
-		"volume": "17",
-		"issue": "2",
-		"source": "mitpressjournals.org (Atypon)",
-		"abstract": "Although claims about climate/conflict links remain contested, concerns that climate change will affect peace and security have gained traction in academic, activist, and policy circles. One set of pressures for responsive action has centered on the UN Security Council, which has held several often-contentious debates on the topic. Whether the Council should address climate change is a highly politicized question, tied to controversies about the Council’s mandate, membership reform, and the appropriate division of labor in the UN system. Lost in this political debate has been a more fundamental question—what exactly could the Council do? We examine six specific proposals for Council action culled from the academic and policy literature and the public positions of member states. These include incorporating climate risks into peacekeeping operations, developing an early-warning system, managing the threat to small-island states, engaging in preventive diplomacy, addressing climate refugees, and embracing a climate-related analogy to the norm of a responsibility to protect. For each proposal, our analysis—which is based on interviews conducted at the UN, archival research, and case histories of past instances of adapting the Council’s focus to new challenges—examines what it would mean and require for the Council to act. We also identify a series of measures that constitute a “pragmatic transformative” agenda. These steps recognize the poor fit between the climate challenge and the Council as it is currently constituted, but also the potential to use climate as part of a larger transformation toward the better Council the world needs.",
-		"URL": "https://www.mitpressjournals.org/doi/10.1162/GLEP_a_00398",
-		"DOI": "10.1162/GLEP_a_00398",
-		"ISSN": "1526-3800",
-		"shortTitle": "Climate Change and the UN Security Council",
-		"journalAbbreviation": "Global Environmental Politics",
-		"author": [
-			{
-				"family": "Conca",
-				"given": "Ken"
-			},
-			{
-				"family": "Thwaites",
-				"given": "Joe"
-			},
-			{
-				"family": "Lee",
-				"given": "Goueun"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					4,
-					4
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					1,
-					31
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/1468459/items/IVQJT985",
-		"type": "article-journal",
-		"title": "Valuing climate change impacts on European forest ecosystems",
-		"container-title": "Ecosystem Services",
-		"page": "141-153",
-		"volume": "18",
-		"source": "ScienceDirect",
-		"abstract": "This paper presents one of the first attempts to perform a systematic assessment of the climate change impacts on European forests and its capacity to deliver ecosystem services by developing a hybrid economic valuation model. Different methods are combined to assess climate change impacts on forests by different latitudes, productivity in bio-physical terms and related economic consequences. Our computation shows that countries within the Mediterranean European geo-climatic zone will benefit from the highest welfare gain in moving towards an environmentally oriented scenario. The welfare gain has been estimated around 86% increase in the cultural values, 45% increase in the value of carbon sequestration and 24% increase in the values of wood forest products. The other countries show an intermediate state of affairs with mixed results. On the other hand, high welfare losses are always expected when moving to the more economically oriented scenarios, with the highest impacts among the Northern European countries. Results show that all storylines describe significant impacts on human wellbeing. These economic magnitudes contribute to a better understanding of the potential welfare loss across different regions and therefore will have important policy implications, such as developing the ecosystem-base adaption measures for Europe to cope with climate change.",
-		"URL": "http://www.sciencedirect.com/science/article/pii/S2212041616300614",
-		"DOI": "10.1016/j.ecoser.2016.02.039",
-		"ISSN": "2212-0416",
-		"journalAbbreviation": "Ecosystem Services",
-		"author": [
-			{
-				"family": "Ding",
-				"given": "Helen"
-			},
-			{
-				"family": "Chiabai",
-				"given": "Aline"
-			},
-			{
-				"family": "Silvestri",
-				"given": "Silvia"
-			},
-			{
-				"family": "Nunes",
-				"given": "Paulo A. L. D."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					4,
-					1
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					1,
-					31
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/1468459/items/598XJPR9",
 		"type": "article-journal",
 		"title": "Modeling the links between biodiversity, ecosystem services and human wellbeing in the context of climate change: Results from an econometric analysis of the European forest ecosystems",
@@ -1948,7 +1754,7 @@
 		"type": "chapter",
 		"title": "Assessing corridor performance",
 		"container-title": "Restructuring Public Transport through Bus Rapid Transit : An International and Interdisciplinary Perspective",
-		"publisher": "Pollicy Press",
+		"publisher": "Policy Press",
 		"publisher-place": "Chicago",
 		"page": "299-316",
 		"event-place": "Chicago",
@@ -1986,7 +1792,7 @@
 		"type": "chapter",
 		"title": "Global overview of BRT and bus corridors",
 		"container-title": "Restructuring public transport through bus rapid transit : an international and interdisciplinary perspective",
-		"publisher": "Pollicy Press",
+		"publisher": "Policy Press",
 		"publisher-place": "Chicago",
 		"page": "15-28",
 		"event-place": "Chicago",
@@ -2068,6 +1874,1196 @@
 					"2018",
 					1,
 					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/5UGMBF3D",
+		"type": "article-journal",
+		"title": "Investing in resilience today to prepare for tomorrow’s climate change",
+		"container-title": "Bulletin of the Atomic Scientists",
+		"page": "1-7",
+		"volume": "0",
+		"issue": "0",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "Even as we redouble our efforts to cut greenhouse emissions, we must build resilience against the current and future impacts of climate change. The economic argument for investment in resilience has been well-established, and while financial resources have started flowing to this end, the latest studies suggest that the world is underinvesting in resilience by at least 70 percent. In addition, resources may not be going where they can best protect those who are disproportionately affected by climate-related shocks. While new sources and larger volumes of finance for adaptation are mobilized, decision-makers – particularly in developing countries – would be well advised to add to their toolkit insurance-linked social safety nets, better resilience metrics, and system-of-systems vulnerability assessments to get more bang for their scarce resilience bucks.",
+		"URL": "https://doi.org/10.1080/00963402.2018.1436805",
+		"DOI": "10.1080/00963402.2018.1436805",
+		"ISSN": "0096-3402",
+		"author": [
+			{
+				"family": "Martinez-Diaz",
+				"given": "Leonardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					2,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/F2LQFUQZ",
+		"type": "article-journal",
+		"title": "Managing Scarce Water Resources in China's Coal Power Industry.",
+		"container-title": "Environmental Management",
+		"page": "1188-1203",
+		"volume": "57",
+		"issue": "6",
+		"source": "EBSCOhost",
+		"archive": "cmedm",
+		"archive_location": "26908125",
+		"abstract": "Coal power generation capacity is expanding rapidly in the arid northwest regions in China. Its impact on water resources is attracting growing concerns from policy-makers, researchers, as well as mass media. This paper briefly describes the situation of electricity-water conflict in China and provides a comprehensive review on a variety of water resources management policies in China's coal power industry. These policies range from mandatory regulations to incentive-based instruments, covering water withdrawal standards, technological requirements on water saving, unconventional water resources utilization (such as reclaimed municipal wastewater, seawater, and mine water), water resources fee, and water permit transfer. Implementing these policies jointly is of crucial importance for alleviating the water stress from the expanding coal power industry in China.;",
+		"URL": "http://search.ebscohost.com/login.aspx?direct=true&db=cmedm&AN=26908125&site=eds-live&scope=site",
+		"DOI": "10.1007/s00267-016-0678-2",
+		"ISSN": "1432-1009",
+		"journalAbbreviation": "Environmental Management",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Chao"
+			},
+			{
+				"family": "Zhong",
+				"given": "Lijin"
+			},
+			{
+				"family": "Fu",
+				"given": "Xiaotian"
+			},
+			{
+				"family": "Zhao",
+				"given": "Zhongnan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/I5ZQKQAG",
+		"type": "article-journal",
+		"title": "Conservation Beyond Park Boundaries: The Impact of Buffer Zones on Deforestation and Mining Concessions in the Peruvian Amazon.",
+		"container-title": "Environmental Management",
+		"page": "297-311",
+		"volume": "58",
+		"issue": "2",
+		"source": "EBSCOhost",
+		"archive": "cmedm",
+		"archive_location": "27179802",
+		"abstract": "Many researchers have tested whether protected areas save tropical forest, but generally focus on parks and reserves, management units that have internationally recognized standing and clear objectives. Buffer zones have received considerably less attention because of their ambiguous rules and often informal status. Although buffer zones are frequently dismissed as ineffective, they warrant attention given the need for landscape-level approaches to conservation and their prevalence around the world-in Peru, buffer zones cover >10 % of the country. This study examines the effectiveness of buffer zones in the Peruvian Amazon to (a) prevent deforestation and (b) limit the extent of mining concessions. We employ covariate matching to determine the impact of 13 buffer zones on deforestation and mining concessions from 2007 to 2012. Despite variation between sites, these 13 buffer zones have prevented ~320 km(2) of forest loss within their borders during the study period and ~1739 km(2) of mining concessions, an outcome associated with the special approval process for granting formal concessions in these areas. However, a closer look at the buffer zone around the Tambopata National Reserve reveals the difficulties of controlling illegal and informal activities. According to interviews with NGO employees, government officials, and community leaders, enforcement of conservation is limited by uncertain institutional responsibilities, inadequate budgets, and corruption, although formal and community-based efforts to block illicit mining are on the rise. Landscape-level conservation not only requires clear legal protocol for addressing large-scale, formal extractive activities, but there must also be strategies and coordination to combat illegal activities.;",
+		"URL": "http://search.ebscohost.com/login.aspx?direct=true&db=cmedm&AN=27179802&site=eds-live&scope=site",
+		"DOI": "10.1007/s00267-016-0709-z",
+		"ISSN": "1432-1009",
+		"journalAbbreviation": "Environmental Management",
+		"author": [
+			{
+				"family": "Weisse",
+				"given": "Mikaela J"
+			},
+			{
+				"family": "Naughton-Treves",
+				"given": "Lisa C"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/K33C2RY5",
+		"type": "article-journal",
+		"title": "Reconciling oil palm expansion and climate change mitigation in Kalimantan, Indonesia.",
+		"container-title": "Plos One",
+		"page": "e0127963-e0127963",
+		"volume": "10",
+		"issue": "5",
+		"source": "EBSCOhost",
+		"archive": "cmedm",
+		"archive_location": "26011182",
+		"abstract": "Our society faces the pressing challenge of increasing agricultural production while minimizing negative consequences on ecosystems and the global climate. Indonesia, which has pledged to reduce greenhouse gas (GHG) emissions from deforestation while doubling production of several major agricultural commodities, exemplifies this challenge. Here we focus on palm oil, the world's most abundant vegetable oil and a commodity that has contributed significantly to Indonesia's economy. Most oil palm expansion in the country has occurred at the expense of forests, resulting in significant GHG emissions. We examine the extent to which land management policies can resolve the apparently conflicting goals of oil palm expansion and GHG mitigation in Kalimantan, a major oil palm growing region of Indonesia. Using a logistic regression model to predict the locations of new oil palm between 2010 and 2020 we evaluate the impacts of six alternative policy scenarios on future emissions. We estimate net emissions of 128.4-211.4 MtCO2 yr(-1) under business as usual expansion of oil palm plantations. The impact of diverting new plantations to low carbon stock land depends on the design of the policy. We estimate that emissions can be reduced by 9-10% by extending the current moratorium on new concessions in primary forests and peat lands, 35% by limiting expansion on all peat and forestlands, 46% by limiting expansion to areas with moderate carbon stocks, and 55-60% by limiting expansion to areas with low carbon stocks. Our results suggest that these policies would reduce oil palm profits only moderately but would vary greatly in terms of cost-effectiveness of emissions reductions. We conclude that a carefully designed and implemented oil palm expansion plan can contribute significantly towards Indonesia's national emissions mitigation goal, while allowing oil palm area to double.;",
+		"URL": "http://search.ebscohost.com/login.aspx?direct=true&db=cmedm&AN=26011182&site=eds-live&scope=site",
+		"DOI": "10.1371/journal.pone.0127963",
+		"ISSN": "1932-6203",
+		"journalAbbreviation": "Plos One",
+		"author": [
+			{
+				"family": "Austin",
+				"given": "Kemen G"
+			},
+			{
+				"family": "Kasibhatla",
+				"given": "Prasad S"
+			},
+			{
+				"family": "Urban",
+				"given": "Dean L"
+			},
+			{
+				"family": "Stolle",
+				"given": "Fred"
+			},
+			{
+				"family": "Vincent",
+				"given": "Jeffrey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/PVBY9QVS",
+		"type": "article-journal",
+		"title": "Can't see the (bamboo) forest for the trees: examining bamboo's fit within international forestry institutions.",
+		"container-title": "Ambio",
+		"page": "770-778",
+		"volume": "43",
+		"issue": "6",
+		"source": "EBSCOhost",
+		"archive": "cmedm",
+		"archive_location": "24293019",
+		"abstract": "Over the centuries, governments and international agencies have developed a wide range of institutions to manage timber resources and conserve values provided by treed lands. Concerns regarding the sustainable supply of timber have provided opportunities for the development of substitute resources; however, bamboo and other non-timber forest resources have not been a part of the development of these institutions. Bamboo is a unique Non-Timber Forest Product, as it is often classified as forest or timber, and therefore must adhere to the same regulations as timber. Given the recent global expansion of bamboo, it is timely to examine the interplay between bamboo and the traditional institutions of forest governance. This paper aims to contribute to debates regarding cognitive institutional constraints on the development of substitute natural resources using bamboo as a case study, with specific focus on the applicability of Forest Stewardship Council certification, timber legality verification and Reducing Emissions from Deforestation and Forest Degradation to bamboos.;",
+		"URL": "http://search.ebscohost.com/login.aspx?direct=true&db=cmedm&AN=24293019&site=eds-live&scope=site",
+		"DOI": "10.1007/s13280-013-0466-7",
+		"ISSN": "0044-7447",
+		"journalAbbreviation": "Ambio",
+		"author": [
+			{
+				"family": "Buckingham",
+				"given": "Kathleen Carmel"
+			},
+			{
+				"family": "Wu",
+				"given": "Liangru"
+			},
+			{
+				"family": "Lou",
+				"given": "Yiping"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/XGBIMG73",
+		"type": "article-journal",
+		"title": "Coral Reefs and People in a High-CO2 World: Where Can Science Make a Difference to People?",
+		"container-title": "Plos One",
+		"page": "e0164699-e0164699",
+		"volume": "11",
+		"issue": "11",
+		"source": "EBSCOhost",
+		"archive": "cmedm",
+		"archive_location": "27828972",
+		"abstract": "Reefs and People At Risk: Increasing levels of carbon dioxide in the atmosphere put shallow, warm-water coral reef ecosystems, and the people who depend upon them at risk from two key global environmental stresses: 1) elevated sea surface temperature (that can cause coral bleaching and related mortality), and 2) ocean acidification. These global stressors: cannot be avoided by local management, compound local stressors, and hasten the loss of ecosystem services. Impacts to people will be most grave where a) human dependence on coral reef ecosystems is high, b) sea surface temperature reaches critical levels soonest, and c) ocean acidification levels are most severe. Where these elements align, swift action will be needed to protect people's lives and livelihoods, but such action must be informed by data and science.; An Indicator Approach: Designing policies to offset potential harm to coral reef ecosystems and people requires a better understanding of where CO2-related global environmental stresses could cause the most severe impacts. Mapping indicators has been proposed as a way of combining natural and social science data to identify policy actions even when the needed science is relatively nascent. To identify where people are at risk and where more science is needed, we map indicators of biological, physical and social science factors to understand how human dependence on coral reef ecosystems will be affected by globally-driven threats to corals expected in a high-CO2 world. Western Mexico, Micronesia, Indonesia and parts of Australia have high human dependence and will likely face severe combined threats. As a region, Southeast Asia is particularly at risk. Many of the countries most dependent upon coral reef ecosystems are places for which we have the least robust data on ocean acidification. These areas require new data and interdisciplinary scientific research to help coral reef-dependent human communities better prepare for a high CO2 world.;",
+		"URL": "http://search.ebscohost.com/login.aspx?direct=true&db=cmedm&AN=27828972&site=eds-live&scope=site",
+		"DOI": "10.1371/journal.pone.0164699",
+		"ISSN": "1932-6203",
+		"journalAbbreviation": "Plos One",
+		"author": [
+			{
+				"family": "Pendleton",
+				"given": "Linwood"
+			},
+			{
+				"family": "Comte",
+				"given": "Adrien"
+			},
+			{
+				"family": "Langdon",
+				"given": "Chris"
+			},
+			{
+				"family": "Ekstrom",
+				"given": "Julia A"
+			},
+			{
+				"family": "Cooley",
+				"given": "Sarah R"
+			},
+			{
+				"family": "Suatoni",
+				"given": "Lisa"
+			},
+			{
+				"family": "Beck",
+				"given": "Michael W"
+			},
+			{
+				"family": "Brander",
+				"given": "Luke M"
+			},
+			{
+				"family": "Burke",
+				"given": "Lauretta"
+			},
+			{
+				"family": "Cinner",
+				"given": "Josh E"
+			},
+			{
+				"family": "Doherty",
+				"given": "Carolyn"
+			},
+			{
+				"family": "Edwards",
+				"given": "Peter E T"
+			},
+			{
+				"family": "Gledhill",
+				"given": "Dwight"
+			},
+			{
+				"family": "Jiang",
+				"given": "Li-Qing"
+			},
+			{
+				"family": "Hooidonk",
+				"given": "Ruben J",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Teh",
+				"given": "Louise"
+			},
+			{
+				"family": "Waldbusser",
+				"given": "George G"
+			},
+			{
+				"family": "Ritter",
+				"given": "Jessica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/9FRA9VS8",
+		"type": "article-journal",
+		"title": "Can carbon emissions from tropical deforestation drop by 50% in 5years?",
+		"container-title": "Global Change Biology",
+		"page": "1336-1347",
+		"volume": "22",
+		"issue": "4",
+		"archive_location": "CCC:000371515300002",
+		"URL": "://CCC:000371515300002",
+		"ISSN": "1354-1013",
+		"shortTitle": "Can carbon emissions from tropical deforestation drop by 50% in 5years?",
+		"author": [
+			{
+				"family": "Zarin",
+				"given": "Daniel J."
+			},
+			{
+				"family": "Harris",
+				"given": "Nancy L."
+			},
+			{
+				"family": "Baccini",
+				"given": "Alessandro"
+			},
+			{
+				"family": "Aksenov",
+				"given": "Dmitry"
+			},
+			{
+				"family": "Hansen",
+				"given": "Matthew C."
+			},
+			{
+				"family": "Azevedo-Ramos",
+				"given": "Claudia"
+			},
+			{
+				"family": "Azevedo",
+				"given": "Tasso"
+			},
+			{
+				"family": "Margono",
+				"given": "Belinda A."
+			},
+			{
+				"family": "Alencar",
+				"given": "Ane C."
+			},
+			{
+				"family": "Gabris",
+				"given": "Chri S."
+			},
+			{
+				"family": "Allegretti",
+				"given": "Adrienne"
+			},
+			{
+				"family": "Potapov",
+				"given": "Peter"
+			},
+			{
+				"family": "Farina",
+				"given": "Mary"
+			},
+			{
+				"family": "Walker",
+				"given": "Wayne S."
+			},
+			{
+				"family": "Shevade",
+				"given": "Varada S."
+			},
+			{
+				"family": "Loboda",
+				"given": "Tatiana V."
+			},
+			{
+				"family": "Turubanova",
+				"given": "Svetlana"
+			},
+			{
+				"family": "Tyukavina",
+				"given": "Alexandra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/ZJINTMZE",
+		"type": "article-journal",
+		"title": "Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests",
+		"container-title": "Science Advances",
+		"page": "1345-1345",
+		"volume": "3",
+		"issue": "11",
+		"archive_location": "CCC:000418002000019",
+		"URL": "://CCC:000418002000019",
+		"ISSN": "2375-2548",
+		"shortTitle": "Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests",
+		"author": [
+			{
+				"family": "Crouzeilles",
+				"given": "Renato"
+			},
+			{
+				"family": "Ferreira",
+				"given": "Mariana S."
+			},
+			{
+				"family": "Chazdon",
+				"given": "Robin L."
+			},
+			{
+				"family": "Lindenmayer",
+				"given": "David B."
+			},
+			{
+				"family": "Sansevero",
+				"given": "Jeronimo B. B."
+			},
+			{
+				"family": "Monteiro",
+				"given": "Lara"
+			},
+			{
+				"family": "Iribarrem",
+				"given": "Alvaro"
+			},
+			{
+				"family": "Latawiec",
+				"given": "Agnieszka E."
+			},
+			{
+				"family": "Strassburg",
+				"given": "Bernardo B. N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/WETFGHCK",
+		"type": "article-journal",
+		"title": "Economic valuation of coral reef ecosystem service of coastal protection: A pragmatic approach",
+		"container-title": "Ecosystem Services",
+		"page": "72-80",
+		"volume": "21",
+		"archive_location": "CCC:000385526300008",
+		"URL": "://CCC:000385526300008",
+		"ISSN": "2212-0416",
+		"shortTitle": "Economic valuation of coral reef ecosystem service of coastal protection: A pragmatic approach",
+		"author": [
+			{
+				"family": "Pascal",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Allenbach",
+				"given": "Michel"
+			},
+			{
+				"family": "Brathwaite",
+				"given": "Angelique"
+			},
+			{
+				"family": "Burke",
+				"given": "Lauretta"
+			},
+			{
+				"family": "Le Port",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Clua",
+				"given": "Eric"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/D875RNZV",
+		"type": "article-journal",
+		"title": "Expansion of Industrial Plantations Continues to Threaten Malayan Tiger Habitat",
+		"container-title": "Remote Sensing",
+		"page": "747-747",
+		"volume": "9",
+		"issue": "7",
+		"archive_location": "CCC:000406676800110",
+		"URL": "://CCC:000406676800110",
+		"ISSN": "2072-4292",
+		"shortTitle": "Expansion of Industrial Plantations Continues to Threaten Malayan Tiger Habitat",
+		"author": [
+			{
+				"family": "Shevade",
+				"given": "Varada S."
+			},
+			{
+				"family": "Potapov",
+				"given": "Peter V."
+			},
+			{
+				"family": "Harris",
+				"given": "Nancy L."
+			},
+			{
+				"family": "Loboda",
+				"given": "Tatiana V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/LMYNCI4K",
+		"type": "article-journal",
+		"title": "Reducing Urban Greenhouse Gas Footprints",
+		"container-title": "Scientific Reports",
+		"page": "14659-14659",
+		"volume": "7",
+		"archive_location": "CCC:000414566600028",
+		"URL": "://CCC:000414566600028",
+		"ISSN": "2045-2322",
+		"shortTitle": "Reducing Urban Greenhouse Gas Footprints",
+		"author": [
+			{
+				"family": "Pichler",
+				"given": "Peter-Paul"
+			},
+			{
+				"family": "Zwickel",
+				"given": "Timm"
+			},
+			{
+				"family": "Chavez",
+				"given": "Abel"
+			},
+			{
+				"family": "Kretschmer",
+				"given": "Tino"
+			},
+			{
+				"family": "Seddon",
+				"given": "Jessica"
+			},
+			{
+				"family": "Weisz",
+				"given": "Helga"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/S9AGYSBM",
+		"type": "article-journal",
+		"title": "The extent of forest in dryland biomes",
+		"container-title": "Science",
+		"page": "635-+",
+		"volume": "356",
+		"issue": "6338",
+		"archive_location": "CCC:000400975200054",
+		"URL": "://CCC:000400975200054",
+		"ISSN": "0036-8075",
+		"shortTitle": "The extent of forest in dryland biomes",
+		"author": [
+			{
+				"family": "Bastin",
+				"given": "Jean-Francois"
+			},
+			{
+				"family": "Berrahmouni",
+				"given": "Nora"
+			},
+			{
+				"family": "Grainger",
+				"given": "Alan"
+			},
+			{
+				"family": "Maniatis",
+				"given": "Danae"
+			},
+			{
+				"family": "Mollicone",
+				"given": "Danilo"
+			},
+			{
+				"family": "Moore",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Patriarca",
+				"given": "Chiara"
+			},
+			{
+				"family": "Picard",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Sparrow",
+				"given": "Ben"
+			},
+			{
+				"family": "Abraham",
+				"given": "Elena Maria"
+			},
+			{
+				"family": "Aloui",
+				"given": "Kamel"
+			},
+			{
+				"family": "Atesoglu",
+				"given": "Ayhan"
+			},
+			{
+				"family": "Attorre",
+				"given": "Fabio"
+			},
+			{
+				"family": "Bassullu",
+				"given": "Caglar"
+			},
+			{
+				"family": "Bey",
+				"given": "Adia"
+			},
+			{
+				"family": "Garzuglia",
+				"given": "Monica"
+			},
+			{
+				"family": "Garcia-Montero",
+				"given": "Luis G."
+			},
+			{
+				"family": "Groot",
+				"given": "Nikee"
+			},
+			{
+				"family": "Guerin",
+				"given": "Greg"
+			},
+			{
+				"family": "Laestadius",
+				"given": "Lars"
+			},
+			{
+				"family": "Lowe",
+				"given": "Andrew J."
+			},
+			{
+				"family": "Mamane",
+				"given": "Bako"
+			},
+			{
+				"family": "Marchi",
+				"given": "Giulio"
+			},
+			{
+				"family": "Patterson",
+				"given": "Paul"
+			},
+			{
+				"family": "Rezende",
+				"given": "Marcelo"
+			},
+			{
+				"family": "Ricci",
+				"given": "Stefano"
+			},
+			{
+				"family": "Salcedo",
+				"given": "Ignacio"
+			},
+			{
+				"family": "Diaz",
+				"given": "Alfonso Sanchez-Paus"
+			},
+			{
+				"family": "Stolle",
+				"given": "Fred"
+			},
+			{
+				"family": "Surappaeva",
+				"given": "Venera"
+			},
+			{
+				"family": "Castro",
+				"given": "Rene"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/23M7X2RE",
+		"type": "article-journal",
+		"title": "A review of land-based greenhouse gas flux estimates in Indonesia",
+		"container-title": "Environmental Research Letters",
+		"source": "Institute of Physics",
+		"abstract": "Abstract This study examines underlying reasons for differences among land-based greenhouse gas flux estimates in Indonesia, where six national inventories reported average emissions of between 0.4 and 1.1 Gt CO2e yr-1 over the 2000 – 2012 period. The large range among estimates is only somewhat smaller than Indonesia’s GHG mitigation commitment. To determine the reasons for these differences, we compared input data and estimation methods, including the definitions and assumptions used for setting accounting boundaries, including emitting activities, incorporating fluxes from various carbon pools, and handling legacy fluxes. We also tested the sensitivity of methodological differences by generating our own reference emissions estimate and iteratively modifying individual components of the inventory. We found that the largest changes stem from the inclusion of legacy GHG emissions due to peat drainage (which increased emissions by at least +94% compared to the reference), methane emissions due to peat fires (+35%), and GHG emissions from belowground biomass and necromass carbon pools (+61%), modifications to assumptions of the mass of fuel burnt in peat fire events (+88%), and accounting for regrowth following a deforestation event (-31%). These differences cumulatively explain more than half of the observed difference among inventory estimates. Understanding the various approaches to emissions estimation, and how these influence the magnitude of component GHG fluxes, is an important first step towards reconciling GHG inventories. The Indonesian government’s success in achieving its mitigation goal will depend on its ability to measure progress and evaluate the effectiveness of abatement actions, for which reliable harmonized greenhouse gas inventories are an essential foundation.",
+		"URL": "http://iopscience.iop.org/10.1088/1748-9326/aab531",
+		"DOI": "10.1088/1748-9326/aab531",
+		"ISSN": "1748-9326",
+		"journalAbbreviation": "Environ. Res. Lett.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Austin",
+				"given": "Kemen G."
+			},
+			{
+				"family": "Harris",
+				"given": "Nancy L."
+			},
+			{
+				"family": "Wijaya",
+				"given": "Arief"
+			},
+			{
+				"family": "Murdiyarso",
+				"given": "Daniel"
+			},
+			{
+				"family": "Harvey",
+				"given": "Thomas J."
+			},
+			{
+				"family": "Stolle",
+				"given": "Fred"
+			},
+			{
+				"family": "Kasibhatla",
+				"given": "Prasad"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/YG2YJKN2",
+		"type": "article-journal",
+		"title": "Planetary Health Watch: integrated monitoring in the Anthropocene epoch",
+		"container-title": "The Lancet Planetary Health",
+		"page": "e141-e143",
+		"volume": "2",
+		"issue": "4",
+		"source": "ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2542519618300470",
+		"DOI": "10.1016/S2542-5196(18)30047-0",
+		"ISSN": "2542-5196",
+		"shortTitle": "Planetary Health Watch",
+		"journalAbbreviation": "The Lancet Planetary Health",
+		"author": [
+			{
+				"family": "Haines",
+				"given": "Andy"
+			},
+			{
+				"family": "Hanson",
+				"given": "Craig"
+			},
+			{
+				"family": "Ranganathan",
+				"given": "Janet"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/U2HSKD8Q",
+		"type": "article-journal",
+		"title": "Enabling Renewable Energy on both Sides of the Meter: a Focus on State-Level Approaches in New York and Texas",
+		"container-title": "Current Sustainable/Renewable Energy Reports",
+		"page": "45-58",
+		"volume": "5",
+		"issue": "1",
+		"source": "rd.springer.com",
+		"abstract": "Purpose of the Review This paper focuses on the impact of state renewable energy policies in the decentralized, patchwork energy policy framework of the present-day USA. Approaches in two states in...",
+		"URL": "https://link.springer.com/article/10.1007/s40518-018-0096-6",
+		"DOI": "10.1007/s40518-018-0096-6",
+		"ISSN": "2196-3010",
+		"shortTitle": "Enabling Renewable Energy on both Sides of the Meter",
+		"journalAbbreviation": "Curr Sustainable Renewable Energy Rep",
+		"language": "en",
+		"author": [
+			{
+				"family": "Cyrs",
+				"given": "Tom H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					3,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/ASWN5ZRE",
+		"type": "article-journal",
+		"title": "When is a forest a forest? Forest concepts and definitions in the era of forest and landscape restoration",
+		"container-title": "Ambio",
+		"page": "538-550",
+		"volume": "45",
+		"issue": "5",
+		"source": "rd.springer.com",
+		"abstract": "We present a historical overview of forest concepts and definitions, linking these changes with distinct perspectives and management objectives. Policies dealing with a broad range of forest issues...",
+		"URL": "https://link.springer.com/article/10.1007/s13280-016-0772-y",
+		"DOI": "10.1007/s13280-016-0772-y",
+		"ISSN": "0044-7447, 1654-7209",
+		"shortTitle": "When is a forest a forest?",
+		"journalAbbreviation": "Ambio",
+		"language": "en",
+		"author": [
+			{
+				"family": "Chazdon",
+				"given": "Robin L."
+			},
+			{
+				"family": "Brancalion",
+				"given": "Pedro H. S."
+			},
+			{
+				"family": "Laestadius",
+				"given": "Lars"
+			},
+			{
+				"family": "Bennett-Curry",
+				"given": "Aoife"
+			},
+			{
+				"family": "Buckingham",
+				"given": "Kathleen"
+			},
+			{
+				"family": "Kumar",
+				"given": "Chetan"
+			},
+			{
+				"family": "Moll-Rocek",
+				"given": "Julian"
+			},
+			{
+				"family": "Vieira",
+				"given": "Ima Célia Guimarães"
+			},
+			{
+				"family": "Wilson",
+				"given": "Sarah Jane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/9THPWCM7",
+		"type": "article-journal",
+		"title": "The Legitimacy of Bamboo Certification: Unpacking the Controversy and the Implications for a “Treelike” Grass",
+		"container-title": "Society & Natural Resources",
+		"page": "575-592",
+		"volume": "28",
+		"issue": "6",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "Bamboo is emerging as an important substitute for wood and wood fiber. Although bamboo can be assimilated within existing forest certification mechanisms, there is growing controversy among experts regarding the applicability and efficacy of adopting such instruments. Through an accumulation of fieldwork, interviews, and discussions among experts between 2005 and 2014, this article analyzes the Forest Stewardship Council (FSC) certification, as well as proposals arising within the bamboo community. Through the lens of legitimacy, it analyzes stakeholders' views of the input legitimacy (processes) and output legitimacy (effectiveness) of FSC bamboo certification. It highlights the dissatisfaction with the third-party model for smallholders, as well the lack of ecological management gains within the FSC system. However, currently the bamboo communities of practice are divided about ways to proceed regarding creating alternative approaches. At a macro level, it highlights current challenges regarding the need to facilitate new resources into already existing institutions.",
+		"URL": "https://doi.org/10.1080/08941920.2014.945057",
+		"DOI": "10.1080/08941920.2014.945057",
+		"ISSN": "0894-1920",
+		"shortTitle": "The Legitimacy of Bamboo Certification",
+		"author": [
+			{
+				"family": "Buckingham",
+				"given": "Kathleen"
+			},
+			{
+				"family": "Jepson",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/A3AX34U2",
+		"type": "article-journal",
+		"title": "Vegetal politics: belonging, practices and places",
+		"container-title": "Social & Cultural Geography",
+		"page": "861-870",
+		"volume": "15",
+		"issue": "8",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "Cultural geography has a long and proud tradition of research into human–plant relations. However, until recently, that tradition has been somewhat disconnected from conceptual advances in the social sciences, even those to which cultural geographers have made significant contributions. With a number of important exceptions, plant studies have been less explicitly part of more-than-human geographies than have animal studies. This special issue aims to redress this gap, recognising plants and their multiple engagements with and beyond humans. Plants are not only fundamental to human survival, they play a key role in many of the most important environmental political issues of the century, including biofuels, carbon economies and food security. In this introduction, we explore themes of belonging, practices and places, as discussed in the contributing papers. Together, the papers suggest new kinds of ‘vegetal politics’, documenting both collaborative and conflictual relations between humans, plants and others. They open up new spaces of political action and subjectivity, challenging political frames that are confined to humans. The papers also raise methodological questions and challenges for future research. This special issue grew out of sessions we organised at the Association of American Geographers Annual Meeting in New York in 2012.",
+		"URL": "https://doi.org/10.1080/14649365.2014.973900",
+		"DOI": "10.1080/14649365.2014.973900",
+		"ISSN": "1464-9365",
+		"shortTitle": "Vegetal politics",
+		"author": [
+			{
+				"family": "Head",
+				"given": "Lesley"
+			},
+			{
+				"family": "Atchison",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Phillips",
+				"given": "Catherine"
+			},
+			{
+				"family": "Buckingham",
+				"given": "Kathleen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					17
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/2LHX4FX8",
+		"type": "article-journal",
+		"title": "Whose sustainability counts? Reflections on an Indian oasis and the drive for certified bamboo",
+		"container-title": "Asian Geographer",
+		"page": "97-113",
+		"volume": "31",
+		"issue": "2",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "This paper traces a controversial development in India called Lavasa. Lavasa is a new hill station being created in Maharashtra, which aims to tap into a new eco-city trend of urban development. In order to ascertain “world-class” status, the city requires globally recognized standards. This study follows the Forest Stewardship Council certification process. This seemingly easy model of bamboo certification assisted in identifying underlying existing local tensions regarding land tenure, indigenous people's rights, potential landslide areas, and inequitable pay for women. Through a focus on one site of consumption and production, the paper explores two linked issues: the global “branding” of sustainable cities and sustainable product certification. Whilst both the city and certification reproduced neoliberal spaces of governance, a performativity lens highlighted the political outcomes of envisioning different “realities”. The paper argues that the concerns of distributional equity are a major challenge developing countries face in advancing sustainability.",
+		"URL": "https://doi.org/10.1080/10225706.2014.917687",
+		"DOI": "10.1080/10225706.2014.917687",
+		"ISSN": "1022-5706",
+		"shortTitle": "Whose sustainability counts?",
+		"author": [
+			{
+				"family": "Buckingham",
+				"given": "Kathleen Carmel"
+			},
+			{
+				"family": "Jepson",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/XRSQ9SCZ",
+		"type": "article-journal",
+		"title": "Can’t See the (Bamboo) Forest for the Trees: Examining Bamboo’s Fit Within International Forestry Institutions",
+		"container-title": "AMBIO",
+		"page": "770-778",
+		"volume": "43",
+		"issue": "6",
+		"source": "rd.springer.com",
+		"abstract": "Over the centuries, governments and international agencies have developed a wide range of institutions to manage timber resources and conserve values provided by treed lands. Concerns regarding the...",
+		"URL": "https://link.springer.com/article/10.1007/s13280-013-0466-7",
+		"DOI": "10.1007/s13280-013-0466-7",
+		"ISSN": "0044-7447, 1654-7209",
+		"shortTitle": "Can’t See the (Bamboo) Forest for the Trees",
+		"journalAbbreviation": "AMBIO",
+		"language": "en",
+		"author": [
+			{
+				"family": "Buckingham",
+				"given": "Kathleen Carmel"
+			},
+			{
+				"family": "Wu",
+				"given": "Liangru"
+			},
+			{
+				"family": "Lou",
+				"given": "Yiping"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/MIKZDCZF",
+		"type": "article-journal",
+		"title": "ENVIRONMENTAL REVIEWS AND CASE STUDIES: Diplomats and Refugees: Panda Diplomacy, Soft “Cuddly” Power, and the New Trajectory in Panda Conservation",
+		"container-title": "Environmental Practice",
+		"page": "262-270",
+		"volume": "15",
+		"issue": "3",
+		"source": "Cambridge Core",
+		"abstract": "China's practice of gifting and loaning giant pandas has been given new impetus as a result of damage to panda-conservation facilities caused by the 2008 Sichuan earthquake and China's rise as an economic power. We suggest that a new, third phase of panda diplomacy is under way that is distinct from the previous two. Phase 1 during the Mao era (in the 1960s and 1970s) took the form of China gifting pandas to build strategic friendships. Phase 2 followed Deng Xiaoping's rise to power in 1978 when gifts became gift loans involving a capitalist lease model based on financial transactions. In the emerging phase 3, panda loans are associated with nations supplying China with valuable resources and technology and symbolize China's willingness to build guanxi—namely, deep trade relationships characterized by trust, reciprocity, loyalty, and longevity. Notable is the correlation of guanxi loan deals with nations supplying resources and technologies to China in the aftermath of the 2008 earthquake in panda habitat. As captive breeding resumes with the completion of repairs to the earthquake-damaged Wolong Breeding center, we predict that panda diplomacy will increase and that panda conservation, more than ever, will be the outcome of a complex, dynamic interplay among politics, markets, and conservation science.Environmental Practice 15:262–270 (2013)",
+		"URL": "https://www.cambridge.org/core/journals/environmental-practice/article/environmental-reviews-and-case-studies-diplomats-and-refugees-panda-diplomacy-soft-cuddly-power-and-the-new-trajectory-in-panda-conservation/A23238335C47C1717417060B7AAB05AF",
+		"DOI": "10.1017/S1466046613000185",
+		"ISSN": "1466-0466, 1466-0474",
+		"shortTitle": "ENVIRONMENTAL REVIEWS AND CASE STUDIES",
+		"language": "en",
+		"author": [
+			{
+				"family": "Buckingham",
+				"given": "Kathleen Carmel"
+			},
+			{
+				"family": "David",
+				"given": "Jonathan Neil William"
+			},
+			{
+				"family": "Jepson",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					24
 				]
 			]
 		}
