@@ -5,7 +5,6 @@
 */
 
 function getName($which) {
-
   $pageAlias = drupal_get_path_alias();
   $pieces1 = explode("/", $pageAlias);
   $pieces2 = explode("-", $pieces1[1]);
@@ -16,7 +15,6 @@ function getName($which) {
   elseif ($which == 'first') {
     return ucfirst($pieces2[0]);
   }
-  
 }
 
 /*
@@ -25,11 +23,8 @@ function getName($which) {
 */
 
 function grabTitles() {
-
   $pubListSrc = "sites/all/modules/custom/wri_external_pub_list/wriauthors.json";
-
   $pubList = file_get_contents($pubListSrc);
-
   $pubListArray = json_decode($pubList, true);
 
   $authLast = getName('last');
@@ -53,9 +48,7 @@ function grabTitles() {
   else {
     $matches = "<p>No external publications listed for: " . $authFirst . " " . $authLast . "</p><style>.pane-wri-external-pub-list-external-publications { display: none !important; } #content .nav--tabs .nav-item:last-child { display: none !important; }</style>";
   }
-    
   return $matches;
-
 }
 
 /** 
@@ -71,7 +64,6 @@ function wri_external_pub_list_block_info() {
   $blocks['external_publications'] = array(
     'info' => t('External Publications'),
   );
-
   return $blocks;
 }
 
@@ -89,6 +81,5 @@ function wri_external_pub_list_block_view($delta = '') {
       $block['content'] = grabTitles();
       break;
     }
-
   return $block;
 }
