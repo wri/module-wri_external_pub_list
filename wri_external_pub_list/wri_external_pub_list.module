@@ -1,5 +1,9 @@
 <?php
 
+/*
+* Get the author name from the path alias.
+*/
+
 function getName($which) {
 
   $pageAlias = drupal_get_path_alias();
@@ -14,6 +18,11 @@ function getName($which) {
   }
   
 }
+
+/*
+* Convert the json and loop through the array to 
+* find titles by the author.
+*/
 
 function grabTitles() {
 
@@ -54,7 +63,7 @@ function grabTitles() {
 */
 
 /**
-* Implements hook_block_info().
+* Implement hook_block_info().
 */
 
 function wri_external_pub_list_block_info() {
@@ -67,8 +76,8 @@ function wri_external_pub_list_block_info() {
 }
 
 /**
- * Implements hook_block_view().
- */
+* Implement hook_block_view().
+*/
 
 function wri_external_pub_list_block_view($delta = '') {
   $block = array();
@@ -83,4 +92,3 @@ function wri_external_pub_list_block_view($delta = '') {
 
   return $block;
 }
-
