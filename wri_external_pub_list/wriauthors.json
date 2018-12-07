@@ -982,6 +982,12 @@
 		"abstract": "<SPAN style='FONT-SIZE: 11pt; FONT-FAMILY: \"Calibri\",sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: \"Times New Roman\"; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>A compilation of case histories, regulatory successes, and emerging legal case law that showcase the advances in the use of water quality trading programs and approaches as a flexible regulatory/permitting compliance tool.</SPAN>",
 		"URL": "https://www.e-wef.org/Store/ProductDetails.aspx?productId=45390843",
 		"language": "en-US",
+		"author": [
+			{
+				"family": "Walker",
+				"given": "Sara"
+			}
+		],
 		"accessed": {
 			"date-parts": [
 				[
@@ -3064,6 +3070,774 @@
 					"2018",
 					4,
 					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/JPENWXTM",
+		"type": "article-journal",
+		"title": "How Much Does Wind Power Reduce CO2 Emissions? Evidence from the Irish Single Electricity Market",
+		"container-title": "Environmental and Resource Economics",
+		"page": "1-25",
+		"source": "link.springer.com",
+		"abstract": "This paper evaluates the effect of wind generation on CO2CO2\\text {CO}_{2} emissions using 2008–2012 historical data for the Irish Single Electricity Market. Wind generation displaces CO2CO2\\text {CO}_{2} emissions, as expected, in line with the average system emissions. Over the whole period, wind generation avoided about 8.8 million tons of CO2CO2\\text {CO}_{2}, equivalent to about 12% of total system emissions. To understand what drives the level of abatement we evaluate the results by technology and determine that wind generation has similar effects on total emissions from CCGT and coal plants, due to the higher carbon content of coal. Each MWh of wind, however, replaces more generation from CCGTs than from coal plants, in proportion to their generation. We also test the hypothesis that as wind displaces baseload plants it pushes them to generate less efficiently, but find no evidence of a strong negative effect of wind on CCGT or coal plant efficiency. Finally wind displaces about 2.5% fewer emissions when the pumped storage plant is on outage, suggesting that wind is more effective when paired with a flexible system.",
+		"URL": "https://link.springer.com/article/10.1007/s10640-017-0178-8",
+		"DOI": "10.1007/s10640-017-0178-8",
+		"ISSN": "0924-6460, 1573-1502",
+		"shortTitle": "How Much Does Wind Power Reduce CO2 Emissions?",
+		"journalAbbreviation": "Environ Resource Econ",
+		"language": "en",
+		"author": [
+			{
+				"family": "Cosmo",
+				"given": "Valeria Di"
+			},
+			{
+				"family": "Valeri",
+				"given": "Laura Malaguzzi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/QC9WFRVI",
+		"type": "article-journal",
+		"title": "Wind, storage, interconnection and the cost of electricity generation",
+		"container-title": "Energy Economics",
+		"page": "1-18",
+		"volume": "69",
+		"source": "ScienceDirect",
+		"abstract": "We evaluate how increasing wind generation affects wholesale electricity prices, balancing payments and the cost of subsidies using the Irish Single Electricity Market (SEM) as a test system, with hourly data from 1 January 2008 to 28 August 2012. We model the spot market using a system of seemingly unrelated regressions (SUR) where the regressions are the 24hours of the day. Wind has a negative impact on the system marginal price, with every MWh increase in wind generation (equal to about 0.2% of the average wind generation in our sample) leading to a decrease of the system marginal price of €0.018MWh, or about 0.3% of its average value. We use time series models to analyse the balancing market and show that wind generation increases balancing payments, as do the forecast errors of demand and wind. Every MWh of additional wind generation is associated with an increase in constraint payments of €3.2, or about 0.01%. Lack of storage increases the impact of wind on balancing payments whereas the lack of interconnection has no effect. Overall, wind decreases costs through its effect on the electricity price more than it increases constraint payments, even when storage is on outage. The effect of wind remains positive after including the cost of subsidies given to wind generation.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0140988317303833",
+		"DOI": "10.1016/j.eneco.2017.11.003",
+		"ISSN": "0140-9883",
+		"journalAbbreviation": "Energy Economics",
+		"author": [
+			{
+				"family": "Di Cosmo",
+				"given": "Valeria"
+			},
+			{
+				"family": "Malaguzzi Valeri",
+				"given": "Laura"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/7BNE7F9K",
+		"type": "article-journal",
+		"title": "The incentive to invest in thermal plants in the presence of wind generation",
+		"container-title": "Energy Economics",
+		"page": "306-315",
+		"volume": "43",
+		"source": "ScienceDirect",
+		"abstract": "In a deregulated market, the decision to add generation rests with private investors. This paper evaluates how generator profits are affected by increasing wind generation. Using hourly historical data for the Irish Single Electricity Market, we simulate new series of electricity prices, representative plant bids and wind generation. We calibrate the model based on the negative correlation between electricity prices and wind generation. This allows us to determine that increasing wind generation induces lower profits for all baseload plants. Additionally, it decreases profits for baseload natural gas plants more than for less flexible coal-fuelled plants, which might encourage investment in less flexible plants.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0140988314000565",
+		"DOI": "10.1016/j.eneco.2014.03.009",
+		"ISSN": "0140-9883",
+		"journalAbbreviation": "Energy Economics",
+		"author": [
+			{
+				"family": "Di Cosmo",
+				"given": "Valeria"
+			},
+			{
+				"family": "Malaguzzi Valeri",
+				"given": "Laura"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/QCJC7RNE",
+		"type": "article-journal",
+		"title": "Irish and British electricity prices: what recent history implies for future prices",
+		"container-title": "Economics of Energy & Environmental Policy",
+		"volume": "4",
+		"issue": "1",
+		"source": "Crossref",
+		"URL": "http://www.iaee.org/en/publications/eeeparticle.aspx?id=82",
+		"DOI": "10.5547/2160-5890.3.2.pdea",
+		"ISSN": "21605882",
+		"shortTitle": "Irish and British electricity prices",
+		"author": [
+			{
+				"family": "Deane",
+				"given": "Paul"
+			},
+			{
+				"family": "FitzGerald",
+				"given": "John"
+			},
+			{
+				"family": "Malaguzzi Valeri",
+				"given": "Laura"
+			},
+			{
+				"family": "Tuohy",
+				"given": "Aidan"
+			},
+			{
+				"family": "Walsh",
+				"given": "Darragh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/INRPRU7Z",
+		"type": "article-journal",
+		"title": "Carbon storage potential in degraded forests of Kalimantan, Indonesia",
+		"container-title": "Environmental Research Letters",
+		"page": "095001",
+		"volume": "13",
+		"issue": "9",
+		"source": "Institute of Physics",
+		"abstract": "The forests of Kalimantan are under severe pressure from extensive land use activities dominated by logging, palm oil plantations, and peatland fires. To implement the forest moratorium for mitigating greenhouse gas emissions, Indonesia’s government requires information on the carbon stored in forests, including intact, degraded, secondary, and peat swamp forests. We developed a hybrid approach of producing a wall-to-wall map of the aboveground biomass (AGB) of intact and degraded forests of Kalimantan at 1 ha grid cells by combining field inventory plots, airborne lidar samples, and satellite radar and optical imagery. More than 110 000 ha of lidar data were acquired to systematically capture variations of forest structure and more than 104 field plots to develop lidar-biomass models. The lidar measurements were converted into biomass using models developed for 66 439 ha of drylands and 44 250 ha of wetland forests. By combining the AGB map with the national land cover map, we found that 22.3 Mha (10 6 ha) of forest remain on drylands ranging in biomass from 357.2 ± 12.3 Mgha −1 in relatively intact forests to 134.2 ± 6.1 Mgha −1 in severely degraded forests. The remaining peat swamp forests are heterogeneous in coverage and degradation level, extending over 3.62 Mha and having an average AGB of 211.8 ± 12.7 Mgha −1 . Emission factors calculated from aboveground biomass only suggest that the carbon storage potential of more than 15 Mha of degraded and secondary dryland forests will be about 1.1 PgC.",
+		"URL": "http://stacks.iop.org/1748-9326/13/i=9/a=095001",
+		"DOI": "10.1088/1748-9326/aad782",
+		"ISSN": "1748-9326",
+		"journalAbbreviation": "Environ. Res. Lett.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Ferraz",
+				"given": "António"
+			},
+			{
+				"family": "Saatchi",
+				"given": "Sassan"
+			},
+			{
+				"family": "Xu",
+				"given": "Liang"
+			},
+			{
+				"family": "Hagen",
+				"given": "Stephen"
+			},
+			{
+				"family": "Chave",
+				"given": "Jerome"
+			},
+			{
+				"family": "Yu",
+				"given": "Yifan"
+			},
+			{
+				"family": "Meyer",
+				"given": "Victoria"
+			},
+			{
+				"literal": "Mariano Garcia"
+			},
+			{
+				"family": "Silva",
+				"given": "Carlos"
+			},
+			{
+				"family": "Roswintiart",
+				"given": "Orbita"
+			},
+			{
+				"family": "Samboko",
+				"given": "Ari"
+			},
+			{
+				"family": "Sist",
+				"given": "Plinio"
+			},
+			{
+				"family": "Walker",
+				"given": "Sarah"
+			},
+			{
+				"family": "Pearson",
+				"given": "Timothy R. H."
+			},
+			{
+				"family": "Wijaya",
+				"given": "Arief"
+			},
+			{
+				"family": "Sullivan",
+				"given": "Franklin B."
+			},
+			{
+				"family": "Rutishauser",
+				"given": "Ervan"
+			},
+			{
+				"family": "Hoekman",
+				"given": "Dirk"
+			},
+			{
+				"family": "Ganguly",
+				"given": "Sangram"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/94M4CRPJ",
+		"type": "webpage",
+		"title": "Perspectives: Building climate resilience with smaller businesses - UNEP DTU PARTNERSHIP",
+		"URL": "http://www.unepdtu.org/newsbase/2018/04/perspectives-building-climate-resilience-with-small-businesses?id=5e9aa687-49e6-48a0-9fca-2cee44938241",
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/DJ32F4HQ",
+		"type": "article-journal",
+		"title": "Keeping global climate change within 1.5°C through net negative electric cities",
+		"container-title": "Current Opinion in Environmental Sustainability",
+		"collection-title": "Environmental change assessment",
+		"page": "18-25",
+		"volume": "30",
+		"source": "ScienceDirect",
+		"abstract": "The development of net negative electric cities encompasses the three strategies of decarbonizing power supply, energy efficiency and electrification. There is potential to pursue these combined strategies rapidly to hold climate change to within 1.5°C. Recent work has identified many cities in developing countries that are ideal for electrification today based on carbon intensity and high access to electricity. Net negative electric cities could be achieved by following a comprehensive policy framework for low carbon investment.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1877343517300593",
+		"DOI": "10.1016/j.cosust.2018.02.009",
+		"ISSN": "1877-3435",
+		"journalAbbreviation": "Current Opinion in Environmental Sustainability",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "Chris"
+			},
+			{
+				"family": "Stewart",
+				"given": "Iain D"
+			},
+			{
+				"family": "Westphal",
+				"given": "Michael I"
+			},
+			{
+				"family": "Facchini",
+				"given": "Angelo"
+			},
+			{
+				"family": "Mele",
+				"given": "Renata"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/VTQ7ZLCH",
+		"type": "article-journal",
+		"title": "Decoupling between water use and thermoelectric power generation growth in China",
+		"container-title": "Nature Energy",
+		"page": "792-799",
+		"volume": "3",
+		"issue": "9",
+		"source": "www.nature.com",
+		"abstract": "Decoupling resource use from energy production is critical for sustainable development. Here, researchers show a decoupling between water use and electricity generation growth in China, accompanied by changing spatial distribution of associated water stress.",
+		"URL": "https://www.nature.com/articles/s41560-018-0236-7",
+		"DOI": "10.1038/s41560-018-0236-7",
+		"ISSN": "2058-7546",
+		"language": "en",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Chao"
+			},
+			{
+				"family": "Zhong",
+				"given": "Lijin"
+			},
+			{
+				"family": "Wang",
+				"given": "Jiao"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/R2XHHMNC",
+		"type": "webpage",
+		"title": "Classifying drivers of global forest loss | Science",
+		"URL": "http://science.sciencemag.org/content/361/6407/1108/tab-figures-data",
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/MVBBAC6Y",
+		"type": "post-weblog",
+		"title": "Without Changing Diets, Agriculture Alone Could Produce Enough Emissions to Surpass 1.5°C of Global Warming",
+		"container-title": "Resource Watch",
+		"abstract": "Global meat and dairy consumption is set to increase nearly 70 percent by 2050. The resulting agricultural emissions would make it impossible to keep temperature rise below 1.5°C (2.7°F), the level scientists say is necessary for staving off climate disasters.",
+		"URL": "https://www.wri.org/blog/2018/10/we-cant-limit-global-warming-15c-without-changing-diets/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Waite",
+				"given": "Richard"
+			},
+			{
+				"family": "Vennard",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					17
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/RNCR9845",
+		"type": "article-journal",
+		"title": "The Interplay between Accounting and Reporting on Mitigation Contributions under the Paris Agreement",
+		"container-title": "Carbon & Climate Law Review",
+		"page": "203-208",
+		"volume": "12",
+		"issue": "3",
+		"source": "cclr.lexxion.eu",
+		"URL": "https://cclr.lexxion.eu/article/CCLR/2018/3/6",
+		"DOI": "10.21552/cclr/2018/3/6",
+		"ISSN": "21908230",
+		"language": "en",
+		"author": [
+			{
+				"family": "Levin",
+				"given": "Kelly"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/D6J8GLRG",
+		"type": "article-journal",
+		"title": "Overcoming the tragedy of super wicked problems: constraining our future selves to ameliorate global climate change",
+		"container-title": "Policy Sciences",
+		"page": "123-152",
+		"volume": "45",
+		"issue": "2",
+		"source": "rd.springer.com",
+		"abstract": "Most policy-relevant work on climate change in the social sciences either analyzes costs and benefits of particular policy options against important but often narrow sets of objectives or attempts to...",
+		"URL": "https://link.springer.com/article/10.1007/s11077-012-9151-0",
+		"DOI": "10.1007/s11077-012-9151-0",
+		"ISSN": "0032-2687, 1573-0891",
+		"shortTitle": "Overcoming the tragedy of super wicked problems",
+		"journalAbbreviation": "Policy Sci",
+		"language": "en",
+		"author": [
+			{
+				"family": "Levin",
+				"given": "Kelly"
+			},
+			{
+				"family": "Cashore",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Bernstein",
+				"given": "Steven"
+			},
+			{
+				"family": "Auld",
+				"given": "Graeme"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/D8Y549R3",
+		"type": "article-journal",
+		"title": "National GHG emissions reduction pledges and 2°C: comparison of studies",
+		"container-title": "Climate Policy",
+		"page": "356-377",
+		"volume": "12",
+		"issue": "3",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "This article provides further detail on expected global GHG emission levels in 2020, based on the Emissions Gap Report (United Nations Environment Programme, December 2010), assuming the emission reduction proposals in the Copenhagen Accord and Cancun Agreements are met. Large differences are found in the results of individual groups owing to uncertainties in current and projected emission estimates and in the interpretation of the reduction proposals. Regardless of these uncertainties, the pledges for 2020 are expected to deliver emission levels above those that are consistent with a 2°C limit. This emissions gap could be narrowed through implementing the more stringent conditional pledges, minimizing the use of ‘lenient’ credits from forests and surplus emission units, avoiding double-counting of offsets and implementing measures beyond current pledges. Conversely, emission reduction gains from countries moving from their low to high ambition pledges could be more than offset by the use of ‘lenient’ land use, land-use change and forestry (LULUCF) credits and surplus emissions units, if these were used to the maximum. Laying the groundwork for faster emission reduction rates after 2020 appears to be crucial in any case.",
+		"URL": "https://doi.org/10.1080/14693062.2011.637818",
+		"DOI": "10.1080/14693062.2011.637818",
+		"ISSN": "1469-3062",
+		"shortTitle": "National GHG emissions reduction pledges and 2°C",
+		"author": [
+			{
+				"family": "Höhne",
+				"given": "Niklas"
+			},
+			{
+				"family": "Taylor",
+				"given": "Christopher"
+			},
+			{
+				"family": "Elias",
+				"given": "Ramzi"
+			},
+			{
+				"family": "Elzen",
+				"given": "Michel Den"
+			},
+			{
+				"family": "Riahi",
+				"given": "Keywan"
+			},
+			{
+				"family": "Chen",
+				"given": "Claudine"
+			},
+			{
+				"family": "Rogelj",
+				"given": "Joeri"
+			},
+			{
+				"family": "Grassi",
+				"given": "Giacomo"
+			},
+			{
+				"family": "Wagner",
+				"given": "Fabian"
+			},
+			{
+				"family": "Levin",
+				"given": "Kelly"
+			},
+			{
+				"family": "Massetti",
+				"given": "Emanuele"
+			},
+			{
+				"family": "Xiusheng",
+				"given": "Zhao"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/ZKPKYC5T",
+		"type": "article-journal",
+		"title": "Building the Forest-Climate Bandwagon: REDD+ and the Logic of Problem Amelioration",
+		"container-title": "Global Environmental Politics",
+		"page": "85-103",
+		"volume": "11",
+		"issue": "3",
+		"source": "MIT Press Journals",
+		"abstract": "For those championing an international institutional solution to climate change, the forest-climate linkage through reduced emissions from deforestation and forest degradation and forest enhancement (REDD+) may be one of the most promising strategic linkages to date. Following a series of forest-focused interventions that did not live up to their promise, global forest politics have now, through REDD+ deliberations, been institutionally subsumed into the climate regime. We argue that to realize its potential, REDD+ policy mechanisms must be careful to move away from the commodification of forest stewardship that reinforces short-term strategic positions of powerful producing and consuming interests whose current activities are the culprits of global forest decline. To achieve such an outcome, we argue that institutions must develop on the basis of a “logic of problem amelioration” in which the rationale for achieving clearly defined environmental and social goals is rendered transparent. This could be achieved through the formalization of a “dual effectiveness test” in which interventions are evaluated for their potential to simultaneously ameliorate both global climate change and forest degradation.",
+		"URL": "https://doi.org/10.1162/GLEP_a_00070",
+		"DOI": "10.1162/GLEP_a_00070",
+		"ISSN": "1526-3800",
+		"shortTitle": "Building the Forest-Climate Bandwagon",
+		"journalAbbreviation": "Global Environmental Politics",
+		"author": [
+			{
+				"family": "McDermott",
+				"given": "Constance L."
+			},
+			{
+				"family": "Levin",
+				"given": "Kelly"
+			},
+			{
+				"family": "Cashore",
+				"given": "Benjamin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					7,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/PS8J4NRW",
+		"type": "article-journal",
+		"title": "Tradeoffs in the Policy Process in Advancing Climate Change Adaptation: The Case of Australia's Great Eastern Ranges Initiative",
+		"container-title": "Journal of Natural Resources Policy Research",
+		"page": "145-162",
+		"volume": "3",
+		"issue": "2",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "The first continental-scale climate change adaptation strategy for biodiversity conservation has been adopted in Australia. The Great Eastern Ranges Initiative (GERI), aims to bolster the resilience of biodiversity by enhancing connectivity in eastern Australia for species migration in a changing climate. The Initiative is now being carried out on the ground, and is among the earliest national-level adaptation strategies for biodiversity conservation advanced by policymakers. In this paper we explore the implications of the rapid progression of the Initiative through the policy process, providing insights useful for decision makers advancing adaptation policies elsewhere in the future.",
+		"URL": "https://doi.org/10.1080/19390459.2011.557879",
+		"DOI": "10.1080/19390459.2011.557879",
+		"ISSN": "1939-0459",
+		"shortTitle": "Tradeoffs in the Policy Process in Advancing Climate Change Adaptation",
+		"author": [
+			{
+				"family": "Levin",
+				"given": "Kelly"
+			},
+			{
+				"family": "Petersen",
+				"given": "Brian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					3,
+					30
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/1468459/items/FXA2TCJ9",
+		"type": "article-journal",
+		"title": "The Climate Regime as Global Forest Governance: Can Reduced Emissions from Deforestation and Forest Degradation (REDD) Initiatives Pass a ‘Dual Effectiveness’ Test?",
+		"container-title": "International Forestry Review",
+		"page": "538-549",
+		"volume": "10",
+		"issue": "3",
+		"source": "bioone.org (Atypon)",
+		"abstract": "SUMMARY For two generations, policy makers, environmental groups, industry associations and other stakeholders have given global forest deterioration concerted and sustained attention. Widespread disappointment over the failure to achieve a binding global forest convention at the 1992 Rio Earth Summit has been followed by frustration over the relatively limited impact to date of post-Rio forest-related global policy initiatives, including intergovernmental and non-state efforts. This paper argues that “reduced emissions from deforestation and forest degradation” (REDD) initiatives will yield significant impacts only if decision makers are committed to a results-based “dual effectiveness” test, addressing both forest degradation and global emissions reductions, and involving significant and measurable global-scale targets. While the importance of such a commitment may appear obvious, lessons from past forest and climate efforts suggest that greater results-based accountability is needed to overcome short-term and narrowly defined organizational and national self-interest.",
+		"URL": "http://www.bioone.org/doi/abs/10.1505/ifor.10.3.538",
+		"DOI": "10.1505/ifor.10.3.538",
+		"ISSN": "1465-5489",
+		"shortTitle": "The Climate Regime as Global Forest Governance",
+		"journalAbbreviation": "International Forestry Review",
+		"author": [
+			{
+				"family": "Levin",
+				"given": "K."
+			},
+			{
+				"family": "McDermott",
+				"given": "C."
+			},
+			{
+				"family": "Cashore",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					9,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					7
 				]
 			]
 		}
