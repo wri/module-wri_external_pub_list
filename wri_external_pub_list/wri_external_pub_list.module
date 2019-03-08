@@ -23,7 +23,7 @@ function getName($which) {
 */
 
 function grabTitles() {
-  $pubListSrc = "sites/all/modules/custom/wri_external_pub_list/wriauthors.json";
+  $pubListSrc = "https://s3.amazonaws.com/wriorg/external-publications/externalpubs.json";
   $pubList = file_get_contents($pubListSrc);
   $pubListArray = json_decode($pubList, true);
 
@@ -32,18 +32,39 @@ function grabTitles() {
 
   foreach($pubListArray as $key => $publication_entry) {
     if ($publication_entry['author']) {
+      $authors = array();
       foreach ($publication_entry['author'] as $author) {
         $first_name = $author['given'];
-	$last_name = $author['family'];
+        $last_name = $author['family'];
+        $authors[] = $last_name . ' ' . $authFirst;
         if ($first_name == $authFirst && $last_name == $authLast) {
-          $author_publications_array[] = "<p>" . $authLast . ", " . $authFirst . ". \"" . $publication_entry['title'] . ".\" <em>" . $publication_entry['container-title'] . "</em> " . $publication_entry['volume'] . " (" . $publication_entry['issued']['date-parts'][0][0] . "): " . $publication_entry['page'] . ". doi:" . $publication_entry['DOI'] . ".</p>";
-	}
+
+          $publication_date = $publication_entry['issued']['date-parts'][0][0] . "-" . $date_src = $publication_entry['issued']['date-parts'][0][1];
+          $publication_date = new DateTime($publication_date);
+
+
+          $doi = isset($publication_entry['DOI']) ? ' DOI: <a href="https://doi.org/' . $publication_entry['DOI'] . '" target="_blank">' . $publication_entry['DOI'] . '</a>' : "";
+
+          $author_publications_array[] = array(
+            'str'  => "<p><strong>\"" . $publication_entry['title'] . ".</strong>\"<br/><small>By " . implode(', ' ,$authors) . ".<br/><em>" . $publication_entry['container-title'] . "</em> " . $publication_entry['volume'] . " (" . $publication_entry['issued']['date-parts'][0][0] . "): " . $publication_entry['page'] . $doi . ".</small></p>",
+            'date' => $publication_date->getTimestamp(),
+          );
+
+        }
       }
     }
   }
 
+
   if ($author_publications_array) {
-    $matches = implode('', $author_publications_array);
+
+    usort($author_publications_array, function ($publication1, $publication2) {
+      return $publication2['date'] <=> $publication1['date'];
+    });
+
+    $matches = implode(' ', array_map(function ($publication) {
+      return $publication['str'];
+    }, $author_publications_array));
   }
   else {
     $matches = "<p>No external publications listed for: " . $authFirst . " " . $authLast . "</p><style>.pane-wri-external-pub-list-external-publications { display: none !important; } #content .nav--tabs .nav-item:last-child { display: none !important; }</style>";
@@ -51,13 +72,13 @@ function grabTitles() {
   return $matches;
 }
 
-/** 
-* Create the Drupal blocks. 
-*/
+/**
+ * Create the Drupal blocks.
+ */
 
 /**
-* Implement hook_block_info().
-*/
+ * Implement hook_block_info().
+ */
 
 function wri_external_pub_list_block_info() {
   $blocks = array();
@@ -68,8 +89,8 @@ function wri_external_pub_list_block_info() {
 }
 
 /**
-* Implement hook_block_view().
-*/
+ * Implement hook_block_view().
+ */
 
 function wri_external_pub_list_block_view($delta = '') {
   $block = array();
@@ -80,6 +101,7 @@ function wri_external_pub_list_block_view($delta = '') {
       $block['title'] = t('External Publications');
       $block['content'] = grabTitles();
       break;
-    }
+  }
   return $block;
 }
+
