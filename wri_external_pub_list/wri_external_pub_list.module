@@ -38,13 +38,9 @@ function grabTitles() {
         $last_name = $author['family'];
         $authors[] = $last_name . ' ' . $authFirst;
         if ($first_name == $authFirst && $last_name == $authLast) {
-
-          $publication_date = $publication_entry['issued']['date-parts'][0][0] . "-" . $date_src = $publication_entry['issued']['date-parts'][0][1];
+          $publication_date = $publication_entry['issued']['date-parts'][0][0] . (isset($publication_entry['issued']['date-parts'][0][1]) ? "-" . $publication_entry['issued']['date-parts'][0][1] : "");
           $publication_date = new DateTime($publication_date);
-
-
           $doi = isset($publication_entry['DOI']) ? ' DOI: <a href="https://doi.org/' . $publication_entry['DOI'] . '" target="_blank">' . $publication_entry['DOI'] . '</a>' : "";
-
           $author_publications_array[] = array(
             'str'  => "<p><strong>\"" . $publication_entry['title'] . ".</strong>\"<br/><small>By " . implode(', ' ,$authors) . ".<br/><em>" . $publication_entry['container-title'] . "</em> " . $publication_entry['volume'] . " (" . $publication_entry['issued']['date-parts'][0][0] . "): " . $publication_entry['page'] . $doi . ".</small></p>",
             'date' => $publication_date->getTimestamp(),
@@ -104,4 +100,3 @@ function wri_external_pub_list_block_view($delta = '') {
   }
   return $block;
 }
-
