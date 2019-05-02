@@ -31,6 +31,7 @@ function grabTitles() {
   $authFirst = getName('first');
 
   foreach($pubListArray as $key => $publication_entry) {
+    $publicationIsFromAuthor = FALSE;
     if ($publication_entry['author']) {
       $authors = array();
       foreach ($publication_entry['author'] as $author) {
@@ -38,16 +39,19 @@ function grabTitles() {
         $last_name = $author['family'];
         $authors[] = $last_name . ' ' . $authFirst;
         if ($first_name == $authFirst && $last_name == $authLast) {
-          $publication_date = $publication_entry['issued']['date-parts'][0][0] . (isset($publication_entry['issued']['date-parts'][0][1]) ? "-" . $publication_entry['issued']['date-parts'][0][1] : "");
-          $publication_date = new DateTime($publication_date);
-          $doi = isset($publication_entry['DOI']) ? ' DOI: <a href="https://doi.org/' . $publication_entry['DOI'] . '" target="_blank">' . $publication_entry['DOI'] . '</a>' : "";
-          $author_publications_array[] = array(
-            'str'  => "<p><strong>\"" . $publication_entry['title'] . ".</strong>\"<br/><small>By " . implode(', ' ,$authors) . ".<br/><em>" . $publication_entry['container-title'] . "</em> " . $publication_entry['volume'] . " (" . $publication_entry['issued']['date-parts'][0][0] . "): " . $publication_entry['page'] . $doi . ".</small></p>",
-            'date' => $publication_date->getTimestamp(),
-          );
-
+          $publicationIsFromAuthor = TRUE;
         }
+
       }
+    }
+    if ($publicationIsFromAuthor) {
+      $publication_date = $publication_entry['issued']['date-parts'][0][0] . (isset($publication_entry['issued']['date-parts'][0][1]) ? "-" . $publication_entry['issued']['date-parts'][0][1] : "");
+      $publication_date = new DateTime($publication_date);
+      $doi = isset($publication_entry['DOI']) ? ' DOI: <a href="https://doi.org/' . $publication_entry['DOI'] . '" target="_blank">' . $publication_entry['DOI'] . '</a>' : "";
+      $author_publications_array[] = array(
+        'str'  => "<p><strong>\"" . $publication_entry['title'] . ".</strong>\"<br/><small>By " . implode(', ' ,$authors) . ".<br/><em>" . $publication_entry['container-title'] . "</em> " . $publication_entry['volume'] . " (" . $publication_entry['issued']['date-parts'][0][0] . "): " . $publication_entry['page'] . $doi . ".</small></p>",
+        'date' => $publication_date->getTimestamp(),
+      );
     }
   }
 
