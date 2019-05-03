@@ -18,7 +18,7 @@ function getName($which) {
 }
 
 /*
-* Convert the json and loop through the array to 
+* Convert the json and loop through the array to
 * find titles by the author.
 */
 
@@ -37,7 +37,7 @@ function grabTitles() {
       foreach ($publication_entry['author'] as $author) {
         $first_name = $author['given'];
         $last_name = $author['family'];
-        $authors[] = $last_name . ' ' . $authFirst;
+        $authors[] = $last_name . ' ' . $first_name;
         if ($first_name == $authFirst && $last_name == $authLast) {
           $publicationIsFromAuthor = TRUE;
         }
