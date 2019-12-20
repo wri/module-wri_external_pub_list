@@ -10,7 +10,17 @@ function getName($which) {
   $pieces2 = explode("-", $pieces1[1]);
 
   if ($which == 'last') {
-    return ucfirst($pieces2[1]);
+    if(count($pieces2) > 2){
+      $allLastArr = $pieces2;
+      array_shift($allLastArr);
+      foreach ($allLastArr as $key => $value){
+        $allLastArr[$key] = ucfirst($value);
+      }
+      $last = implode(" ", $allLastArr);
+    } else {
+      $last = ucfirst($pieces2[1]);
+    }
+    return $last;
   }
   elseif ($which == 'first') {
     return ucfirst($pieces2[0]);
