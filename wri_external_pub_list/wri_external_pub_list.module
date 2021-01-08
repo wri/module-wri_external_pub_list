@@ -48,7 +48,7 @@ function grabTitles() {
         $first_name = $author['given'];
         $last_name = $author['family'];
         $authors[] = $last_name . ' ' . $first_name;
-        $feedName = strtr($first_name . ' ' . $last_name, ["á" => "a", "é" => "e", "í" => "i", "ó" => "o", "ú" => "u"]);
+        $feedName = strtr($first_name . ' ' . $last_name, ["á" => "a", "é" => "e", "í" => "i", "ó" => "o", "ú" => "u", "-" => " "]);
         $drupalName = strtr($authFirst . ' ' . $authLast, ["á" => "a", "é" => "e", "í" => "i", "ó" => "o", "ú" => "u"]);
         if ($feedName ===  $drupalName) {
           $publicationIsFromAuthor = TRUE;
